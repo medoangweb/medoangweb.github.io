@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: French alphabet and accent marks	</title>
+	<atom:link href="/2020/11/20/french-alphabet-and-accent-marks/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/11/20/french-alphabet-and-accent-marks/</link>
+	<description>nhật ký mẹ đoảng nuôi con</description>
+	<lastBuildDate>Fri, 20 Nov 2020 13:15:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
