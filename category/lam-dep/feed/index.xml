@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 19:15:27 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5163</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5163</guid>
 
 					<description><![CDATA[DECIEM là một hãng mỹ phẩm ở Canada với 3 thương hiệu chính NIOD, Hylamide và The Ordinary. Trong đó, The Ordinary là thương hiệu bình dân có nhiều sản phẩm được đông đảo chị em sử dụng nhất bởi chất lượng không thua kém&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -147,7 +147,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="https://192.168.0.34/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg" alt="" data-id="5135" data-full-url="https://192.168.0.34/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg" data-link="https://192.168.0.34/b539f6db-16c9-4907-ae4f-f16a02172948/" class="wp-image-5135" srcset="/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg 1000w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-300x300.jpeg 300w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-150x150.jpeg 150w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="https://192.168.0.34/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg" alt="" data-id="5134" data-full-url="https://192.168.0.34/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg" data-link="https://192.168.0.34/4f326426-0f2b-4538-91d3-a18552d18dda/" class="wp-image-5134" srcset="/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg 1000w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-300x300.jpeg 300w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-150x150.jpeg 150w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="http://192.168.0.34/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg" alt="" data-id="5135" data-full-url="http://192.168.0.34/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg" data-link="http://192.168.0.34/b539f6db-16c9-4907-ae4f-f16a02172948/" class="wp-image-5135" srcset="/wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948.jpeg 1000w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-300x300.jpeg 300w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-150x150.jpeg 150w, /wp-content/uploads/2021/09/B539F6DB-16C9-4907-AE4F-F16A02172948-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="http://192.168.0.34/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg" alt="" data-id="5134" data-full-url="http://192.168.0.34/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg" data-link="http://192.168.0.34/4f326426-0f2b-4538-91d3-a18552d18dda/" class="wp-image-5134" srcset="/wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA.jpeg 1000w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-300x300.jpeg 300w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-150x150.jpeg 150w, /wp-content/uploads/2021/09/4F326426-0F2B-4538-91D3-A18552D18DDA-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li></ul></figure>
 
 
 
@@ -275,7 +275,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 19:10:35 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5161</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5161</guid>
 
 					<description><![CDATA[DECIEM là một hãng mỹ phẩm ở Canada với 3 thương hiệu chính NIOD, Hylamide và The Ordinary. Trong đó, The Ordinary là thương hiệu bình dân có nhiều sản phẩm được đông đảo chị em sử dụng nhất bởi chất lượng không thua kém&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -415,7 +415,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="https://192.168.0.34/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg" alt="" data-id="5144" data-full-url="https://192.168.0.34/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg" data-link="https://192.168.0.34/c72b8425-11fa-4e1b-9654-5b92e187bce0/" class="wp-image-5144" srcset="/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg 1000w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-300x300.jpeg 300w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-150x150.jpeg 150w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="https://192.168.0.34/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg" alt="" data-id="5136" data-full-url="https://192.168.0.34/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg" data-link="https://192.168.0.34/15e47175-2cae-4aa8-a338-fb2ad4c6a4f9/" class="wp-image-5136" srcset="/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg 1000w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-300x300.jpeg 300w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-150x150.jpeg 150w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="https://192.168.0.34/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg" alt="" data-id="5137" data-full-url="https://192.168.0.34/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg" data-link="https://192.168.0.34/d6fc9e44-eb6d-4969-83e5-fa804bde2366/" class="wp-image-5137" srcset="/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg 1000w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-300x300.jpeg 300w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-150x150.jpeg 150w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="http://192.168.0.34/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg" alt="" data-id="5144" data-full-url="http://192.168.0.34/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg" data-link="http://192.168.0.34/c72b8425-11fa-4e1b-9654-5b92e187bce0/" class="wp-image-5144" srcset="/wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0.jpeg 1000w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-300x300.jpeg 300w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-150x150.jpeg 150w, /wp-content/uploads/2021/09/C72B8425-11FA-4E1B-9654-5B92E187BCE0-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="http://192.168.0.34/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg" alt="" data-id="5136" data-full-url="http://192.168.0.34/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg" data-link="http://192.168.0.34/15e47175-2cae-4aa8-a338-fb2ad4c6a4f9/" class="wp-image-5136" srcset="/wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9.jpeg 1000w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-300x300.jpeg 300w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-150x150.jpeg 150w, /wp-content/uploads/2021/09/15E47175-2CAE-4AA8-A338-FB2AD4C6A4F9-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1000" height="1000" src="http://192.168.0.34/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg" alt="" data-id="5137" data-full-url="http://192.168.0.34/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg" data-link="http://192.168.0.34/d6fc9e44-eb6d-4969-83e5-fa804bde2366/" class="wp-image-5137" srcset="/wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366.jpeg 1000w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-300x300.jpeg 300w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-150x150.jpeg 150w, /wp-content/uploads/2021/09/D6FC9E44-EB6D-4969-83E5-FA804BDE2366-768x768.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure></li></ul></figure>
 
 
 
@@ -551,7 +551,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 19:03:26 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5159</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5159</guid>
 
 					<description><![CDATA[DECIEM là một hãng mỹ phẩm ở Canada với 3 thương hiệu chính NIOD, Hylamide và The Ordinary. Trong đó, The Ordinary là thương hiệu bình dân có nhiều sản phẩm được đông đảo chị em sử dụng nhất bởi chất lượng không thua kém&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -663,7 +663,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="1007" src="https://192.168.0.34/wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1024x1007.jpeg" alt="" class="wp-image-5140" srcset="/wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1024x1007.jpeg 1024w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-300x295.jpeg 300w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-768x755.jpeg 768w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1536x1510.jpeg 1536w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-2048x2013.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="1007" src="http://192.168.0.34/wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1024x1007.jpeg" alt="" class="wp-image-5140" srcset="/wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1024x1007.jpeg 1024w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-300x295.jpeg 300w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-768x755.jpeg 768w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-1536x1510.jpeg 1536w, /wp-content/uploads/2021/09/ACCCA49B-C127-4AE2-AEFA-A835D8A35EF3-2048x2013.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -791,7 +791,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:57:56 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5157</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5157</guid>
 
 					<description><![CDATA[DECIEM là một hãng mỹ phẩm ở Canada với 3 thương hiệu chính NIOD, Hylamide và The Ordinary. Trong đó, The Ordinary là thương hiệu bình dân có nhiều sản phẩm được đông đảo chị em sử dụng nhất bởi chất lượng không thua kém&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -903,7 +903,7 @@
 
 
 
-<figure class="wp-block-image size-full is-style-default"><img loading="lazy" width="449" height="745" src="https://192.168.0.34/wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90.jpeg" alt="" class="wp-image-5133" srcset="/wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90.jpeg 449w, /wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90-181x300.jpeg 181w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+<figure class="wp-block-image size-full is-style-default"><img loading="lazy" width="449" height="745" src="http://192.168.0.34/wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90.jpeg" alt="" class="wp-image-5133" srcset="/wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90.jpeg 449w, /wp-content/uploads/2021/09/6CB2EAF5-B44B-4395-AB96-884EB99C3D90-181x300.jpeg 181w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
 
 
 
@@ -1031,7 +1031,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:52:31 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5154</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5154</guid>
 
 					<description><![CDATA[DECIEM là một hãng mỹ phẩm ở Canada với 3 thương hiệu chính NIOD, Hylamide và The Ordinary. Trong đó, The Ordinary là thương hiệu bình dân có nhiều sản phẩm được đông đảo chị em sử dụng nhất bởi chất lượng không thua kém&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1143,7 +1143,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="971" src="https://192.168.0.34/wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1024x971.jpeg" alt="" class="wp-image-5142" srcset="/wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1024x971.jpeg 1024w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-300x285.jpeg 300w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-768x728.jpeg 768w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1536x1457.jpeg 1536w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-2048x1942.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="971" src="http://192.168.0.34/wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1024x971.jpeg" alt="" class="wp-image-5142" srcset="/wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1024x971.jpeg 1024w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-300x285.jpeg 300w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-768x728.jpeg 768w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-1536x1457.jpeg 1536w, /wp-content/uploads/2021/09/0DF3D068-E266-4BAB-827C-4C5EAED09715-2048x1942.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1271,7 +1271,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:47:50 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5152</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5152</guid>
 
 					<description><![CDATA[The Ordinary là 1 thương hiệu mỹ phẩm của hãng DECIEM được thành lập ở Canada từ 2013. Tuy sinh sau đẻ muộn nhưng thương hiệu đến từ xứ sở lá phong này đã được yêu thích bởi đông đảo các chị em trên toàn&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1331,7 +1331,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="948" src="https://192.168.0.34/wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1024x948.jpeg" alt="" class="wp-image-5143" srcset="/wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1024x948.jpeg 1024w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-300x278.jpeg 300w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-768x711.jpeg 768w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1536x1423.jpeg 1536w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-2048x1897.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="948" src="http://192.168.0.34/wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1024x948.jpeg" alt="" class="wp-image-5143" srcset="/wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1024x948.jpeg 1024w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-300x278.jpeg 300w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-768x711.jpeg 768w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-1536x1423.jpeg 1536w, /wp-content/uploads/2021/09/6DB47C4F-E758-4A89-9AA1-16AF836A7E4B-2048x1897.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1423,7 +1423,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:43:19 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5150</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5150</guid>
 
 					<description><![CDATA[The Ordinary là 1 thương hiệu mỹ phẩm của hãng DECIEM được thành lập ở Canada từ 2013. Tuy sinh sau đẻ muộn nhưng thương hiệu đến từ xứ sở lá phong này đã được yêu thích bởi đông đảo các chị em trên toàn&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1491,7 +1491,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="991" height="1024" src="https://192.168.0.34/wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-991x1024.jpeg" alt="" class="wp-image-5141" srcset="/wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-991x1024.jpeg 991w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-290x300.jpeg 290w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-768x794.jpeg 768w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-1486x1536.jpeg 1486w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-1981x2048.jpeg 1981w" sizes="(max-width: 991px) 100vw, 991px" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="991" height="1024" src="http://192.168.0.34/wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-991x1024.jpeg" alt="" class="wp-image-5141" srcset="/wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-991x1024.jpeg 991w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-290x300.jpeg 290w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-768x794.jpeg 768w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-1486x1536.jpeg 1486w, /wp-content/uploads/2021/09/D7B6AA6C-16F4-4248-8B50-6197205BF42F-1981x2048.jpeg 1981w" sizes="(max-width: 991px) 100vw, 991px" /></figure>
 
 
 
@@ -1503,7 +1503,7 @@
 
 
 
-<figure class="wp-block-image size-full is-style-default"><img loading="lazy" width="1024" height="1024" src="https://192.168.0.34/wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17.jpeg" alt="" class="wp-image-5132" srcset="/wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17.jpeg 1024w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-300x300.jpeg 300w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-150x150.jpeg 150w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-768x768.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full is-style-default"><img loading="lazy" width="1024" height="1024" src="http://192.168.0.34/wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17.jpeg" alt="" class="wp-image-5132" srcset="/wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17.jpeg 1024w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-300x300.jpeg 300w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-150x150.jpeg 150w, /wp-content/uploads/2021/09/9E49A683-346E-4C87-8C01-8A0F49817C17-768x768.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1591,7 +1591,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:37:16 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5147</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5147</guid>
 
 					<description><![CDATA[The Ordinary là 1 thương hiệu mỹ phẩm của hãng DECIEM được thành lập ở Canada từ 2013. Tuy sinh sau đẻ muộn nhưng thương hiệu đến từ xứ sở lá phong này đã được yêu thích bởi đông đảo các chị em trên toàn&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1687,7 +1687,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="1024" height="848" src="https://192.168.0.34/wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1024x848.jpeg" alt="" class="wp-image-5139" srcset="/wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1024x848.jpeg 1024w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-300x248.jpeg 300w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-768x636.jpeg 768w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1536x1271.jpeg 1536w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="1024" height="848" src="http://192.168.0.34/wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1024x848.jpeg" alt="" class="wp-image-5139" srcset="/wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1024x848.jpeg 1024w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-300x248.jpeg 300w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-768x636.jpeg 768w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-1536x1271.jpeg 1536w, /wp-content/uploads/2021/09/0AAFBB7D-A78D-4591-9D46-BC2BDC41F82E-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1779,7 +1779,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:33:02 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5145</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5145</guid>
 
 					<description><![CDATA[The Ordinary là 1 thương hiệu mỹ phẩm của hãng DECIEM được thành lập ở Canada từ 2013. Tuy sinh sau đẻ muộn nhưng thương hiệu đến từ xứ sở lá phong này đã được yêu thích bởi đông đảo các chị em trên toàn&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1879,7 +1879,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized is-style-rounded"><img loading="lazy" src="https://192.168.0.34/wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB.jpeg" alt="" class="wp-image-5138" width="911" height="911" srcset="/wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB.jpeg 1000w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-300x300.jpeg 300w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-150x150.jpeg 150w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-768x768.jpeg 768w" sizes="(max-width: 911px) 100vw, 911px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-rounded"><img loading="lazy" src="http://192.168.0.34/wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB.jpeg" alt="" class="wp-image-5138" width="911" height="911" srcset="/wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB.jpeg 1000w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-300x300.jpeg 300w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-150x150.jpeg 150w, /wp-content/uploads/2021/09/318A01A6-0317-4F40-BD7F-4FD4472D79CB-768x768.jpeg 768w" sizes="(max-width: 911px) 100vw, 911px" /></figure>
 
 
 
@@ -1979,7 +1979,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 18:21:57 +0000</pubDate>
 				<category><![CDATA[Làm Đẹp]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5130</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5130</guid>
 
 					<description><![CDATA[Trà xanh từ lâu đã được biết đến với công dụng giảm cân, loại bỏ độc tố trong cơ thể. Bồ công anh được đánh giá cao trong Đông y với tác dụng lợi tiểu. Với bí quyết công nghệ độc đáo của mình, hãng&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1991,7 +1991,7 @@
 
 
 
-<ul class="has-medium-font-size"><li><strong>Viên uống đẹp da, cân bằng nội tiết tố Beauté de la Peau: </strong><a href="/2021/09/20/review-vien-uong-dep-da-beaute-de-la-peau-natform-phap/">/2021/09/20/review-vien-uong-dep-da-beaute-de-la-peau-natform-phap/</a></li><li><strong>Viên uống chiết xuất tảo xoắn spirulina Bio cung cấp năng lượng, tăng cường sức đề kháng: </strong><a href="/2021/09/20/review-vien-tinh-chat-tao-xoan-huu-co-spiruline-bio-natform-phap/">/2021/09/20/review-vien-tinh-chat-tao-xoan-huu-co-spiruline-bio-natform-phap/</a></li><li><strong>Viên uống tăng cường trí nhớ, tập trung Ginkgo Bio: </strong><a href="/2021/09/20/review-vien-tang-cuong-tri-nho-bo-nao-cua-phap-ginkgo-biloba-cypres-bio-natform/">/2021/09/20/review-vien-tang-cuong-tri-nho-bo-nao-cua-phap-ginkgo-biloba-cypres-bio-natform/</a></li><li><strong>Viên uống trị mất ngủ, khó ngủ Sommeil Bio: </strong><a href="/2021/09/20/review-vien-chong-mat-ngu-phap-sommeil-bio-natform/">/2021/09/20/review-vien-chong-mat-ngu-phap-sommeil-bio-natform/</a></li><li><strong>Viên uống bổ mắt tinh chất việt quất hữu cơ Myrtille Bio: </strong><a href="/2021/09/20/review-thuoc-bo-mat-tinh-chat-viet-quat-myrtille-bio-natform-cua-phap/">/2021/09/20/review-thuoc-bo-mat-tinh-chat-viet-quat-myrtille-bio-natform-cua-phap/</a></li></ul>
+<ul class="has-medium-font-size"><li><strong>Viên uống đẹp da, cân bằng nội tiết tố Beauté de la Peau: </strong><a href="http://192.168.0.38/2021/09/20/review-vien-uong-dep-da-beaute-de-la-peau-natform-phap/">http://192.168.0.38/2021/09/20/review-vien-uong-dep-da-beaute-de-la-peau-natform-phap/</a></li><li><strong>Viên uống chiết xuất tảo xoắn spirulina Bio cung cấp năng lượng, tăng cường sức đề kháng: </strong><a href="http://192.168.0.38/2021/09/20/review-vien-tinh-chat-tao-xoan-huu-co-spiruline-bio-natform-phap/">http://192.168.0.38/2021/09/20/review-vien-tinh-chat-tao-xoan-huu-co-spiruline-bio-natform-phap/</a></li><li><strong>Viên uống tăng cường trí nhớ, tập trung Ginkgo Bio: </strong><a href="http://192.168.0.38/2021/09/20/review-vien-tang-cuong-tri-nho-bo-nao-cua-phap-ginkgo-biloba-cypres-bio-natform/">http://192.168.0.38/2021/09/20/review-vien-tang-cuong-tri-nho-bo-nao-cua-phap-ginkgo-biloba-cypres-bio-natform/</a></li><li><strong>Viên uống trị mất ngủ, khó ngủ Sommeil Bio: </strong><a href="http://192.168.0.38/2021/09/20/review-vien-chong-mat-ngu-phap-sommeil-bio-natform/">http://192.168.0.38/2021/09/20/review-vien-chong-mat-ngu-phap-sommeil-bio-natform/</a></li><li><strong>Viên uống bổ mắt tinh chất việt quất hữu cơ Myrtille Bio: </strong><a href="http://192.168.0.38/2021/09/20/review-thuoc-bo-mat-tinh-chat-viet-quat-myrtille-bio-natform-cua-phap/">http://192.168.0.38/2021/09/20/review-thuoc-bo-mat-tinh-chat-viet-quat-myrtille-bio-natform-cua-phap/</a></li></ul>
 
 
 
@@ -2015,7 +2015,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="1024" height="825" src="https://192.168.0.34/wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1024x825.jpeg" alt="" class="wp-image-5087" srcset="/wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1024x825.jpeg 1024w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-300x242.jpeg 300w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-768x619.jpeg 768w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1536x1238.jpeg 1536w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-2048x1650.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="1024" height="825" src="http://192.168.0.34/wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1024x825.jpeg" alt="" class="wp-image-5087" srcset="/wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1024x825.jpeg 1024w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-300x242.jpeg 300w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-768x619.jpeg 768w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-1536x1238.jpeg 1536w, /wp-content/uploads/2021/09/BCEED3CE-5264-4A84-9804-D7DF74E3ABF3-2048x1650.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
