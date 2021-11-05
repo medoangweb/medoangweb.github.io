@@ -12,7 +12,7 @@
 	<atom:link href="/category/hoc-tieng-phap/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>nhật ký mẹ đoảng nuôi con</description>
-	<lastBuildDate>Thu, 04 Nov 2021 17:50:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Nov 2021 11:39:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:45:50 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5457</guid>
+		<guid isPermaLink="false">http://192.168.0.25/?p=5457</guid>
 
 					<description><![CDATA[Salut tout le monde ! Ở hai bài trước, chúng ta đã cùng tìm hiểu các trường hợp nối âm bắt buộc và không bắt buộc trong tiếng Pháp. Trong phần cuối cùng về liaison này, chúng ta sẽ tìm hiểu các trường hợp không&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -183,11 +183,11 @@
 
 
 
-<ul class="has-medium-font-size"><li>Les hiboux => Les || hiboux</li><li>Les haricots => Les || haricots</li><li>Les Hollandais => Les || Hollandais</li><li>Cinq héros => Cinq || héros</li></ul>
+<ul class="has-medium-font-size"><li>Les hiboux =&gt; Les || hiboux</li><li>Les haricots =&gt; Les || haricots</li><li>Les Hollandais =&gt; Les || Hollandais</li><li>Cinq héros =&gt; Cinq || héros</li></ul>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg" alt="" class="wp-image-5461" width="847" height="500" srcset="/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg 1024w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-300x177.jpg 300w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-768x453.jpg 768w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1536x907.jpg 1536w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi.jpg 1560w" sizes="(max-width: 847px) 100vw, 847px" /><figcaption>Bảng tổng hợp các từ bắt đầu bằng âm H bật hơi hay gặp nhất trong tiếng Pháp</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://192.168.0.25/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg" alt="" class="wp-image-5461" width="847" height="500" srcset="/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg 1024w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-300x177.jpg 300w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-768x453.jpg 768w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1536x907.jpg 1536w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi.jpg 1560w" sizes="(max-width: 847px) 100vw, 847px" /><figcaption>Bảng tổng hợp các từ bắt đầu bằng âm H bật hơi hay gặp nhất trong tiếng Pháp</figcaption></figure>
 
 
 
@@ -227,7 +227,7 @@
 
 
 
-<ul class="has-medium-font-size"><li>Les onze joueurs => Les || onze joueurs </li><li>Le candidat 1 => Le candidat || 1 </li><li>Vers les une heure du matin => Vers les || une heure du matin</li><li>Cent un => Cent || un</li><li>C’est un homme. => C’est‿un homme. => C’est [t] un homme.</li></ul>
+<ul class="has-medium-font-size"><li>Les onze joueurs =&gt; Les || onze joueurs&nbsp;</li><li>Le candidat 1 =&gt; Le candidat || 1&nbsp;</li><li>Vers les une heure du matin =&gt; Vers les || une heure du matin</li><li>Cent un =&gt; Cent || un</li><li>C’est un homme. =&gt; C’est‿un homme. =&gt; C’est [t] un homme.</li></ul>
 
 
 
@@ -259,7 +259,23 @@
 
 
 
-<p class="has-medium-font-size">Voi là, vậy là chúng ta đã học xong các trường hợp không bao giờ được nối âm trong tiếng Pháp rồi. Hy vọng các bạn thấy thông tin hữu ích trong bài viết này. Au revoir ! Ciao !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p class="has-medium-font-size">Voilà, vậy là chúng ta đã học xong các trường hợp không bao giờ được nối âm trong tiếng Pháp rồi. </p>
+
+
+
+<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm các trường hợp nối âm bắt buộc và các trường hợp nối âm không bắt buộc trong tiếng Pháp theo links sau:&nbsp;</p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp nối âm bắt buộc: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p1-cac-truong-hop-noi-am-bat-buoc-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p1-cac-truong-hop-noi-am-bat-buoc-trong-tieng-phap/</a></p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp nối âm không bắt buộc: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p2-cac-truong-hop-noi-am-khong-bat-buoc-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p2-cac-truong-hop-noi-am-khong-bat-buoc-trong-tieng-phap/</a></p>
+
+
+
+<p class="has-medium-font-size">Hy vọng các bạn thấy thông tin hữu ích trong bài viết này. Au revoir ! Ciao !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2021/11/04/noi-am-trong-tieng-phap-liaison-p3-cac-truong-hop-khong-duoc-noi-am-trong-tieng-phap/feed/</wfw:commentRss>
@@ -275,7 +291,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:32:37 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5446</guid>
+		<guid isPermaLink="false">http://192.168.0.25/?p=5446</guid>
 
 					<description><![CDATA[Bonjour tout le monde ! Ở bài trước, chúng ta đã tìm hiểu những trường hợp nối âm bắt buộc trong tiếng Pháp. Trong bài học này, chúng ta sẽ tìm hiểu tiếp những trường hợp nối âm không bắt buộc trong tiếng Pháp nhé!&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -491,7 +507,7 @@
 
 
 
-<ul class="has-medium-font-size"><li>Il est évident. => Il ét (‿) évident. => Il est [t] évident.                                            <br>Ou : Il est || évident. </li><li>C’est amusant. => C’est (‿) amusant. => C’est [t] amusant.                                <br>Ou : C’est || amusant.</li></ul>
+<ul class="has-medium-font-size"><li>Il est évident. =&gt; Il ét (‿) évident. =&gt; Il est [t] évident.                                            <br>Ou : Il est || évident.&nbsp;</li><li>C’est amusant. =&gt; C’est (‿) amusant. =&gt; C’est [t] amusant.                                <br>Ou : C’est || amusant.</li></ul>
 
 
 
@@ -503,7 +519,7 @@
 
 
 
-<ul class="has-medium-font-size"><li>Je ne suis pas épuisé. => Je ne suis pas (‿) épuisé. => Je ne suis pas [z] épuisé.                                                                                                                            <br>Ou : Je ne suis pas || épuisé.</li><li>Pas encore => Pas (‿) encore => Pas [z] encore                                                  <br>Ou : Pas || encore</li></ul>
+<ul class="has-medium-font-size"><li>Je ne suis pas épuisé. =&gt; Je ne suis pas (‿) épuisé. =&gt; Je ne suis pas [z] épuisé.                                                                                                                            <br>Ou : Je ne suis pas || épuisé.</li><li>Pas encore =&gt; Pas (‿) encore =&gt; Pas [z] encore                                                  <br>Ou : Pas || encore</li></ul>
 
 
 
@@ -515,7 +531,7 @@
 
 
 
-<ul class="has-medium-font-size"><li>Tellement amusant => Tellement (‿) amusant => Tellement [t] amusant         <br>Ou : Tellement || amusant</li><li>Complètement absorbée => Complètement (‿) absorbée => Complètement [t] absorbée                                                                                                                        <br>Ou : Complètement || absorbée</li></ul>
+<ul class="has-medium-font-size"><li>Tellement amusant =&gt; Tellement (‿) amusant =&gt; Tellement [t] amusant         <br>Ou : Tellement || amusant</li><li>Complètement absorbée =&gt; Complètement (‿) absorbée =&gt; Complètement [t] absorbée                                                                                                                        <br>Ou : Complètement || absorbée</li></ul>
 
 
 
@@ -527,7 +543,19 @@
 
 
 
-<p class="has-medium-font-size">Voilà, trên đây các trường hợp nối âm không bắt buộc trong tiếng Pháp rồi. Trong bài tiếp theo, chúng ta sẽ tìm hiểu nốt phần cuối của liaison, đó là những trường hợp không được nối âm trong tiếng Pháp</p>
+<p class="has-medium-font-size">Voilà, trên đây các trường hợp nối âm không bắt buộc trong tiếng Pháp rồi.<br></p>
+
+
+
+<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm các trường hợp nối âm bắt buộc và các trường hợp không được nối âm trong tiếng Pháp theo links sau:&nbsp;</p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp nối âm bắt buộc: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p1-cac-truong-hop-noi-am-bat-buoc-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p1-cac-truong-hop-noi-am-bat-buoc-trong-tieng-phap/</a></p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp không được nối âm: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p3-cac-truong-hop-khong-duoc-noi-am-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p3-cac-truong-hop-khong-duoc-noi-am-trong-tieng-phap/</a></p>
 
 
 
@@ -547,7 +575,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:17:07 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5433</guid>
+		<guid isPermaLink="false">http://192.168.0.25/?p=5433</guid>
 
 					<description><![CDATA[Salut à toutes et à tous ! Để có thể nói giống người bản địa thì ngoài việc đọc đúng các từ tiếng Pháp, chúng ta cần nối âm các từ trong khi nói nữa. Trong bài học này, chúng ta sẽ tìm hiểu những&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -823,7 +851,7 @@
 
 
 
-<ul class="has-medium-font-size"><li>Tout à coup => Tout‿à coup => Tout [t] à coup</li><li>De temps en temps => De temps‿en temps => De temps [z] en temps</li><li>Mot à mot => Mot‿à mot => Mot [t] à mot</li><li>C’est-à-dire => C’est‿à-dire => C’est-[t]-à-dire</li><li>Peut-être => Peut‿être > Peut-[t]-être</li><li>Petit à petit => Petit‿à petit => Petit [t] à petit</li><li>De plus en plus => De plus‿en plus => De plus [z] en plus</li><li>De moins en moins => De moins‿en moins => De moins [z] en moins</li><li>D&#8217;ores et déjà => D&#8217;ores‿et déjà => D&#8217;ores [z] et déjà</li></ul>
+<ul class="has-medium-font-size"><li>Tout à coup =&gt; Tout‿à coup =&gt; Tout [t] à coup</li><li>De temps en temps =&gt; De temps‿en temps =&gt; De temps [z] en temps</li><li>Mot à mot =&gt; Mot‿à mot =&gt; Mot [t] à mot</li><li>C’est-à-dire =&gt; C’est‿à-dire =&gt; C’est-[t]-à-dire</li><li>Peut-être =&gt; Peut‿être &gt; Peut-[t]-être</li><li>Petit à petit =&gt; Petit‿à petit =&gt; Petit [t] à petit</li><li>De plus en plus =&gt; De plus‿en plus =&gt; De plus [z] en plus</li><li>De moins en moins =&gt; De moins‿en moins =&gt; De moins [z] en moins</li><li>D&#8217;ores et déjà =&gt; D&#8217;ores‿et déjà =&gt; D&#8217;ores [z] et déjà</li></ul>
 
 
 
@@ -943,7 +971,7 @@
 
 
 
-<p class="has-medium-font-size">*<strong>Một vài chú ý: </strong></p>
+<p class="has-medium-font-size">*<strong>Một vài chú ý:&nbsp;</strong></p>
 
 
 
@@ -983,7 +1011,23 @@
 
 
 
-<p class="has-medium-font-size">Voilà, vậy là chúng ta đã cùng tìm hiểu tất cả các trường hợp nối âm bắt buộc trong tiếng Pháp rồi. Hy vọng các bạn thấy nhiều thông tin hữu ích trong bài. Chúc các bạn học vui và đừng quên áp dụng nối âm khi nói tiếng Pháp nhé! Salut et à bientôt !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60e.png" alt="😎" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p class="has-medium-font-size">Voilà, vậy là chúng ta đã cùng tìm hiểu tất cả các trường hợp nối âm bắt buộc trong tiếng Pháp rồi. Hy vọng các bạn thấy nhiều thông tin hữu ích trong bài. </p>
+
+
+
+<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm các trường hợp nối âm không bắt buộc và các trường hợp không được nối âm trong tiếng Pháp theo links sau:&nbsp;</p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp nối âm không bắt buộc: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p2-cac-truong-hop-noi-am-khong-bat-buoc-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p2-cac-truong-hop-noi-am-khong-bat-buoc-trong-tieng-phap/</a></p>
+
+
+
+<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Trường hợp không được nối âm: <a href="https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p3-cac-truong-hop-khong-duoc-noi-am-trong-tieng-phap/">https://medoang.com/2021/11/04/noi-am-trong-tieng-phap-liaison-p3-cac-truong-hop-khong-duoc-noi-am-trong-tieng-phap/</a></p>
+
+
+
+<p class="has-medium-font-size"><br>Chúc các bạn học vui và đừng quên áp dụng nối âm khi nói tiếng Pháp nhé! Salut et à bientôt !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60e.png" alt="😎" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2021/11/04/noi-am-trong-tieng-phap-liaison-p1-cac-truong-hop-noi-am-bat-buoc-trong-tieng-phap/feed/</wfw:commentRss>
@@ -999,7 +1043,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 30 Oct 2021 11:35:13 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5425</guid>
+		<guid isPermaLink="false">http://192.168.0.25/?p=5425</guid>
 
 					<description><![CDATA[Halloween là 1 lễ hội bắt nguồn từ dân tộc Celt xa xưa sống ở nước Anh, Ireland và miền Bắc nước Pháp. Ngày nay, Halloween được các trẻ em ở Phương Tây rất háo hức mong chờ vì là dịp để trẻ em hoá&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1095,7 +1139,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="749" height="1024" src="/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg" alt="" class="wp-image-5417" srcset="/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg 749w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-219x300.jpg 219w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-768x1050.jpg 768w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-1123x1536.jpg 1123w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween.jpg 1192w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption>Từ vựng Halloween kèm ảnh minh họa</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="749" height="1024" src="http://192.168.0.25/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg" alt="" class="wp-image-5417" srcset="/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg 749w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-219x300.jpg 219w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-768x1050.jpg 768w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-1123x1536.jpg 1123w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween.jpg 1192w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption>Từ vựng Halloween kèm ảnh minh họa</figcaption></figure>
 
 
 
@@ -1112,126 +1156,6 @@
 		
 			</item>
 		<item>
-		<title>TỪ VỰNG TIẾNG ANH CHỦ ĐỀ HALLOWEEN</title>
-		<link>/2021/10/30/tu-vung-tieng-anh-chu-de-halloween/</link>
-					<comments>/2021/10/30/tu-vung-tieng-anh-chu-de-halloween/#respond</comments>
-		
-		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
-		<pubDate>Sat, 30 Oct 2021 11:31:02 +0000</pubDate>
-				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5423</guid>
-
-					<description><![CDATA[Halloween là 1 lễ hội bắt nguồn từ dân tộc Celt xa xưa sống ở nước Anh, Ireland và miền Bắc nước Pháp. Ngày nay, Halloween được các trẻ em ở Phương Tây rất háo hức mong chờ vì đây là dịp để trẻ em&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">Halloween là 1 lễ hội bắt nguồn từ dân tộc Celt xa xưa sống ở nước Anh, Ireland và miền Bắc nước Pháp. Ngày nay, Halloween được các trẻ em ở Phương Tây rất háo hức mong chờ vì đây là dịp để trẻ em hóa trang thành phù thuỷ hay những nhân vật đáng sợ khác như ma cà rồng, con quỷ, bóng ma … rồi đi xin kẹo từng nhà, và dọa sẽ phá phách nếu như không nhận được kẹo.</p>
-
-
-
-<p class="has-medium-font-size">Trẻ em ở Anh và Mỹ sẽ gõ cửa từng nhà và nói:</p>
-
-
-
-<ul class="has-medium-font-size"><li><em>“Trick or treat?”</em></li></ul>
-
-
-
-<p class="has-medium-font-size">Trẻ em ở Pháp sẽ gõ cửa từng nhà và nói một trong những câu sau:&nbsp;</p>
-
-
-
-<ul class="has-medium-font-size"><li><em>“Bêtises ou friandises ?”&nbsp;</em></li><li><em>“Des bonbons ou une farce ?”</em></li><li><em>“Des bonbons ou un sort ?”&nbsp;</em></li><li><em>“Bonbons, s’il vous plaît !”</em></li></ul>
-
-
-
-<p class="has-medium-font-size">Dịch sang tiếng Việt là:&nbsp;</p>
-
-
-
-<ul class="has-medium-font-size"><li><em>“Cho kẹo hay muốn bị ghẹo?”</em></li></ul>
-
-
-
-<p class="has-medium-font-size">Trong dịp này, người lớn thường mua rất nhiều kẹo để sẵn trong nhà để cho những đứa trẻ hoá trang đi xin kẹo. Theo tờ Business Insider, ở các nước phương Tây, lượng kẹo tiêu thụ trong dịp Halloween bằng ¼ lượng kẹo tiêu thụ cả năm.</p>
-
-
-
-<p class="has-medium-font-size">Sau đây, chúng ta sẽ cùng tìm hiểu các từ vựng liên quan đến lễ hội Halloween này nhé.</p>
-
-
-
-<p class="has-text-align-center"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p class="has-medium-font-size"><strong>+/ Halloween characters: các nhân vật trong dịp Halloween</strong></p>
-
-
-
-<ul class="has-medium-font-size"><li>Wizard: phù thuỷ nam&nbsp;</li><li>Witch: phù thuỷ nữ</li><li>Ghost/ fantom/ phantom: ma, bóng ma</li><li>Vampire: ma cà rồng</li><li>Werewolf: ma sói</li><li>Zombie: thây ma</li><li>Mummy: xác ướp</li><li>Goblin/ hobgoblin/ imp: yêu tinh</li><li>Devil: con quỷ</li><li>Monster: quái vật</li><li>Frankenstein: quái thú Frankenstein</li><li>Scarecrow: bù nhìn</li></ul>
-
-
-
-<p class="has-medium-font-size"><strong>+/Halloween accessories: phụ kiện trong dịp Halloween</strong></p>
-
-
-
-<ul class="has-medium-font-size"><li>Costume: trang phục&nbsp;</li><li>Witch hat: mũ phù thuỷ</li><li>Vampire teeth: răng của ma cà rồng</li><li>Mask: mặt nạ</li><li>Make-up kit: bộ trang điểm, hoá trang</li></ul>
-
-
-
-<p class="has-medium-font-size"><strong>+/ Halloween decor: các đồ vật trang trí trong dịp Halloween</strong></p>
-
-
-
-<ul class="has-medium-font-size"><li>Pumpkin : bí ngô&nbsp;</li><li>Apple: quả táo</li><li>Jack-o’-lantern: đèn lồng bí ngô Halloween &#8211; biểu tượng của Halloween</li><li>Candy/ sweet: kẹo</li><li>Candle: cây nến</li><li>Broom: cái chổi</li><li>Skeleton: bộ xương</li><li>Bone: khúc xương</li><li>Skull: đầu lâu</li><li>Potion: thuốc độc</li><li>Cauldron: vạc dầu</li><li>Coffin: quan tài&nbsp;</li><li>Tomb/ gravestone: nấm mồ&nbsp;</li><li>Cemetery: nghĩa trang</li><li>Spiderweb/ cobweb: mạng nhện</li><li>Haunted house: ngôi nhà ma ám</li><li>Haystack: đống rơm</li><li>Wand: đũa thần</li></ul>
-
-
-
-<p class="has-medium-font-size"><strong>+/ Halloween animals: các con vật biểu tượng của Halloween</strong></p>
-
-
-
-<ul class="has-medium-font-size"><li>Spider: con nhện</li><li>Bat: con dơi</li><li>Crow: con quạ</li><li>Owl: con cú</li><li>Snake: con rắn</li><li>Rat: con chuột</li><li>Toad: con cóc</li><li>Black cat: mèo đen</li></ul>
-
-
-
-<p class="has-medium-font-size"><strong>+/ Halloween verbs: các động từ trong dịp Halloween&nbsp;</strong></p>
-
-
-
-<ul><li>To dress up: hoá trang</li></ul>
-
-
-
-<ul class="has-medium-font-size"><li>To dress up as a witch: hóa trang thành phù thủy</li><li>To dirty: làm bẩn</li><li>To carve a pumpkin: chạm khắc bí ngô</li><li>To decorate the house: trang trí nhà</li><li>To knock on the door: gõ cửa</li><li>To ring the doorbell: rung chuông cửa</li><li>To scare someone: để dọa ai đó</li><li>To be afraid of something: sợ hãi điều gì</li><li>To ask for candy on Halloween: xin kẹo trong dịp Halloween</li><li>To give candy: cho kẹo</li><li>To be in the halloween atmosphere: trong không khí Halloween&nbsp;</li></ul>
-
-
-
-<p class="has-medium-font-size"><strong>+/ Halloween wishes and sayings: các câu chúc trong dịp Halloween</strong></p>
-
-
-
-<ul class="has-medium-font-size"><li>Happy Halloween!</li><li>Happy Haunting!</li><li>Eat, drink and be scary!</li><li>Witching you a very haunted Halloween!</li><li>Keep calm, trick or treat and carry on!</li><li>Hope your Halloween is fun and spooky!</li><li>Wishing you a night full of frights and a bag full of delights!</li><li>Wishing you lots of fun and lots of yummy treats!</li><li>May you have an amazing day and a freakishly scary Halloween!</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="775" height="1024" src="/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg" alt="" class="wp-image-5418" srcset="/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg 775w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-227x300.jpg 227w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-768x1015.jpg 768w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-1162x1536.jpg 1162w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween.jpg 1215w" sizes="(max-width: 775px) 100vw, 775px" /><figcaption>Từ vựng Halloween cùng ảnh minh họa</figcaption></figure>
-
-
-
-<p class="has-text-align-center"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p class="has-medium-font-size">Vậy là chúng ta đã học xong các từ vựng tiếng Anh chủ đề Halloween rồi. Chúc các bạn sẽ có những trải nghiệm Halloween thú vị ở Việt Nam hay ở bất cứ nơi nào trên Trái Đất này. Happy Halloween! Bye-bye!<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f47b.png" alt="👻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f383.png" alt="🎃" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2021/10/30/tu-vung-tieng-anh-chu-de-halloween/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>CÁCH ĐỌC VÀ CÁCH NHẬN DIỆN ÂM MŨI TRONG TIẾNG PHÁP</title>
 		<link>/2021/10/30/cach-doc-va-cach-nhan-dien-am-mui-trong-tieng-phap/</link>
 					<comments>/2021/10/30/cach-doc-va-cach-nhan-dien-am-mui-trong-tieng-phap/#respond</comments>
@@ -1239,7 +1163,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 30 Oct 2021 11:25:13 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">/?p=5420</guid>
+		<guid isPermaLink="false">http://192.168.0.25/?p=5420</guid>
 
 					<description><![CDATA[Bonjour à toutes et à tous, hôm nay, chúng ta sẽ học về các âm mũi trong tiếng Pháp. Có thể nói rằng, âm mũi là 1 đặc trưng cơ bản trong tiếng Pháp so với tiếng Anh và tiếng Việt. Vậy có bao nhiêu&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1579,7 +1503,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg" alt="" class="wp-image-5444" srcset="/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg 1024w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-300x88.jpg 300w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-768x226.jpg 768w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1536x452.jpg 1536w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bảng tổng hợp cách nhận diện âm mũi tiếng Pháp</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="http://192.168.0.25/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg" alt="" class="wp-image-5444" srcset="/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg 1024w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-300x88.jpg 300w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-768x226.jpg 768w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1536x452.jpg 1536w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bảng tổng hợp cách nhận diện âm mũi tiếng Pháp</figcaption></figure>
 
 
 
@@ -2931,6 +2855,562 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-7-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>French lesson &#8211; Level B2 &#8211; Preparation for DELF (part 6/9)</title>
+		<link>/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-6-9/</link>
+					<comments>/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-6-9/#respond</comments>
+		
+		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 07:13:30 +0000</pubDate>
+				<category><![CDATA[Học tiếng Pháp]]></category>
+		<guid isPermaLink="false">http://medoang.com/?p=4809</guid>
+
+					<description><![CDATA[Theme: L’ART ET LA MANIÈRE&#160; Content: Vocabulary (Vocabulaire)&#160; Grammar (Grammaire) Useful expressions in French (Expressions utiles) French idioms (Expressions imagées)&#160; Did you know? (Le saviez-vous ?) Pronunciation (Prononciation)&#160; Let’s start! I. Vocabulary (Vocabulaire)&#160; 🌼Topic 1 &#8211; La protection des savoir-faire (The protection of know-how) En&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Theme: <strong>L’ART ET LA MANIÈRE&nbsp;</strong></p>
+
+
+
+<p>Content:</p>
+
+
+
+<ol><li>Vocabulary (Vocabulaire)&nbsp;</li><li>Grammar (Grammaire)</li><li>Useful expressions in French (Expressions utiles)</li><li>French idioms (Expressions imagées)&nbsp;</li><li>Did you know? (Le saviez-vous ?)</li><li>Pronunciation (Prononciation)&nbsp;</li></ol>
+
+
+
+<p>Let’s start!</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2021/07/French-common-abbreviations-1024x781.jpeg" alt="Useful French abbreviations" class="wp-image-4798" width="595" height="453" srcset="/wp-content/uploads/2021/07/French-common-abbreviations-1024x781.jpeg 1024w, /wp-content/uploads/2021/07/French-common-abbreviations-300x229.jpeg 300w, /wp-content/uploads/2021/07/French-common-abbreviations-768x586.jpeg 768w, /wp-content/uploads/2021/07/French-common-abbreviations.jpeg 1407w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>I. Vocabulary (Vocabulaire)&nbsp;</strong></p>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />Topic 1 &#8211; La protection des savoir-faire (The protection of know-how)</strong></p>
+
+
+
+<ol><li>En voie de disparition (g.p): approaching the brink of extinction&nbsp;&nbsp;</li><li>Préfabriqué (adj): prefabricated&nbsp;</li><li>Mettre en péril (g.inf): jeopardize&nbsp;</li><li>Savoir-faire (n.m): know-how</li><li>Un métier d’artisanat (g.n): a craft profession</li><li>Un métier artisanal (g.n): a traditional craft profession</li><li>Tels que (g.adv): such as</li><li>Les tailleurs de pierre (g.n): stonemason</li><li>Négliger (v): neglect</li><li>Militer (v): militate&nbsp;</li><li>Perpétuer (v): perpetuate&nbsp;</li><li>L’industrie du luxe (g.n): the luxury industry</li><li>Les robes de défilés haute couture (g.n): high fashion catwalk dresses</li><li>Une tâche minutieuse (g.n): a meticulous task&nbsp;</li><li>Les ateliers de couture (g.n): dress-making workshops</li><li>Une parure en plumes (g.n): a feather set</li><li>Faute de successeurs (g.n): lack of successors</li><li>Racheter (v): redeem&nbsp;</li><li>Poterie (n.f): pottery</li><li>Potier/ potière (n.m/n.f): potter&nbsp;</li><li>Pérennité (n.f): sustainability</li><li>La vaisselle industrielle (g.n): industrial tableware</li><li>Une production de l’utilitaire (g.n): a utility production</li><li>Ancestrale (adj): ancestral&nbsp;</li><li>Être en projet (g.inf): be in project</li><li>La vitrine de l’artisanat (g.n): showcase of craftsmanship</li><li>Tisser (v): weave</li><li>Tissage (n.m): weaving</li><li>Habiller (v): dress, clothe&nbsp;</li><li>Débouché (n.m): opening, outlet</li><li>Exposant (n.m): exhibitor</li><li>Au moyen de (g.p): by means of</li><li>Raffiné (adj): refined&nbsp;</li><li>Fait main (adj): handmade&nbsp;</li><li>Artisan (n.m): craftsman</li><li>Soigneusement (adv): carefully</li><li>Une tradition séculaire (g.n): a secular tradition&nbsp;</li><li>Englober (v): include</li><li>Forgeron/ forgeronne (n.m/n.f): blacksmith</li><li>Brodeur/ brodeuse (n.m/n.f): embroiderer&nbsp;</li><li>Le cireur de chaussures (g.n): shoe shine man&nbsp;</li><li>Le copieur de clés (g.n): key copier</li><li>Verrier/ verrière (n.m/n.f): glassblower&nbsp;</li><li>Le livreur de pizza (g.n): pizza delivery man</li><li>Le tailleur de pierre (g.n): stonemason</li><li>L’aiguiseur de couteaux (g.n): knife sharpener</li><li>Un fer à cheval (g.n): a horseshoe&nbsp;</li><li>Une pince à ligne (g.n): a line clamp</li><li>Un métier manuel farfelu (g.n): a wacky manual job</li><li>Par le biais de (g.p): through</li><li>En binôme (g.p): in pairs</li><li>Écrire à l’encre (g.inf): write in ink</li><li>Recueillir (v): collect&nbsp;</li><li>Casserole (n.f): saucepan</li><li>Manche (n.f): sleeve&nbsp;</li><li>Tremper (v): soak&nbsp;</li><li>Jadis (adv): in times past, formerly</li><li>Sténo (n.f): shorthand typist, stenographer (ng viết tốc kí)</li><li>La machine à coudre (g.n): sewing machine</li><li>Faire ses lacets (g.inf): tie one’s shoelaces</li><li>Cachemire (n.f): cashmere&nbsp;</li><li>Un métier assidu (g.n): a diligent profession</li><li>Faire l’ourlet à la main&nbsp; (g.inf): hand hem&nbsp;</li><li>Délicatesse (n.f): delicacy, tactfulness, thoughtfulness</li><li>Un souffleur de verre (g.n): a glass blower</li><li>Verrier (n.n): glassblower</li><li>Irréductible (adj): indomitable, implacable</li><li>Tourner à plein régime (g.inf): run at full speed</li></ol>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />Topic 2 &#8211; La parfumerie (Perfumery)</strong></p>
+
+
+
+<ol start="69"><li>Un flacon de parfum (g.n): a bottle of perfume</li><li>Une identité olfactive (g.n): an olfactory identity&nbsp;</li><li>Élaborer (v): work out, elaborate</li><li>Communicant (n.m/n.f): communicator</li><li>Les assemblages d’odeurs (g.n): the combinations of odors</li><li>Faire abstraction (g.inf): ignore&nbsp;</li><li>Obsessionnel (adj): obsessive&nbsp;</li><li>Mettre au point (g.inf): develop</li><li>Apte à qqch (g.adj): capable of something</li><li>Le cahier des charges (g.n): specifications</li><li>Triomphe (n.m): triumph</li><li>Détrôner (v): dethrone</li><li>Convaincant (adj): convincing</li><li>Courtiser (v): court, woo&nbsp;</li><li>Horticulteur/ horticultrice (n.m/n.f): horticulturist&nbsp;</li><li>Un haut lieu de fabrication des parfums (g.n): a major place of perfume manufacturin</li><li>Cueillette (n.f): crop, harvest</li><li>Les minutes précédant l’aube (g.n): the minutes before dawn</li><li>Parfumerie (n.f): perfumery, perfume shop</li><li>Acheminer (v): send, transport</li><li>Renommé (adj): renowned</li><li>Chiffre d&#8217;affaires (g.n): turnover</li><li>Doter (v): equip&nbsp;</li><li>Un savoir-faire centenaire unique (g.n): a unique century-old know-how</li><li>Règner (v): reign, rule&nbsp;</li><li>Un marché des senteurs naturelles (g.n): a market of natural scents</li><li>Dessinateur/&nbsp; dessinatrice (n.m/n.f): designer, illustrator</li><li>Sculpteur/ sculpteure (n.m/n.f): sculptor&nbsp;</li><li>Couturier/ couturière ( n.m/n.f): fashion designer, dress maker&nbsp;</li><li>Croquis (n.m): sketch</li><li>Maquette (n.f): model</li><li>Être connu du public (g.inf): be known to the public</li><li>Tourbillon (n.m): whirlpool&nbsp;</li><li>Surmonter (v): be on top of</li><li>Colombe (n.f): dove&nbsp;</li><li>Boulette (n.f): ball&nbsp;</li><li>Dirigeant/ dirigeante (n.m/n.f): leader, manager, director</li><li>Une marque de luxe (g.n): a luxury brand</li><li>Un parfum de luxe (g.n): a luxury perfume&nbsp;</li><li>Recourir à la sous-traitance (g.inf): use subcontracting</li><li>Le savoir-faire de produits made in France (g.n): the know-how of products made in France</li><li>Un ensemble de savoir-faire (g.n): a set of know-how</li><li>Le métier de nez (g.n): the using-nose job</li><li>Faire preuve de précision (g.inf): be precise</li><li>La vie de madame réussite (g.n): life of Madame Success</li><li>Fiasco &#8211; échec &#8211; flop (n.m): failure, fiasco&nbsp;</li><li>Éviter le flop (g.inf): avoid the flop</li><li>Trouvaille (n.f): brainwave, find (nguồn cảm hứng thình lình)</li><li>Parfumeur (n.m): perfumer (ng làm nước hoa)</li><li>Un succès de vente (g.n): a sales success</li><li>Le label made in France (g.n): the label made in France&nbsp;</li><li>Fureur (adj): all the rage&nbsp;</li></ol>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />Topic 3 &#8211; L’oeuvre d’art (Artwork)</strong></p>
+
+
+
+<ol start="121"><li>Retentissant (adj): resounding&nbsp;</li><li>Une vive réaction de rejet (g.n): strong reaction of rejection</li><li>Polémique (n.f): controversy</li><li>Troublant (adj): disturbing</li><li>Faire couler beaucoup d’encre (g.inf): run a lot of in</li><li>Déesse (n.f): goddess&nbsp;</li><li>Méduse (n.f): jellyfish</li><li>Amirale (n.m): admiral&nbsp;</li><li>Dépeindre (v): depict</li><li>Naufrage (n.f): shipwreck</li><li>Équipage (n.m): crew</li><li>Être mort noyé (g.inf): be drowned&nbsp;</li><li>Dévorer (v): devour&nbsp;</li><li>Vainqueur (n.m): winner</li><li>Susciter (v): create, arouse</li><li>Résolument (adv): resolutely&nbsp;</li><li>Un raboteur de parquet (g.n): a parquet planer</li><li>Reconstituer (v): rebuild</li><li>Patatras (interjection): crash &#8211; (indique que qqch tombe en faisant beaucoup de bruit)</li><li>Avoir la flemme de faire qqch (g.inf): be lazy to do something</li><li>Broder (v): embroider&nbsp;</li><li>Aller au lavoir (g.inf): go to the wash house</li><li>Empiler (v): pile up&nbsp;</li><li>La mode du vintage et du fait main (g.n): vintage and handmade fashion</li><li>Vitrine (n.f): shop window, display</li><li>Effectuer des retouches à la main (g.inf): touch up by hand</li><li>Confectionner des robes (g.inf): make dresses</li><li>Une robe de mariée (g.n): a wedding dress</li><li>Sur mesure (g.adj): tailored</li><li>Un métier convenable pour qqu (g.n): a suitable profession for somebody</li><li>Un chef d’établissement (g.n): head of school&nbsp;</li><li>La technique pour taper avec les 10 doigts (g.n): technique of typing with the 10 fingers</li><li>Kiffer (v): like, be into&nbsp;</li><li>Une scène de repas champêtre (g.n): a rural meal scene</li><li>Tendre (adj): soft, loving</li><li>Esquissé (adj): sketched</li><li>Un tableau majeur du tournant vers l’art moderne (g.n): a major painting of the turn to modern art</li><li>Un petit peu l’ironie du sort (g.n): a little bit of irony</li><li>Se télescoper (v): collide, crash into each other</li><li>Plonger dans la réalité de 2020 (g.inf): immerse in the reality of 2020</li><li>Prendre qqch en photo sur son téléphone mobile (g.inf): take a picture of something on your mobile phone</li><li>S’adresser à (v): go and speak to</li><li>Geek (adj): allumé, en informatique</li><li>Enquêteur / enquêtrice (n.m/n.f): officer in charge of an investigation</li><li>Truffer (v): garnish with truffles&nbsp;</li><li>Se prêter à (g.v): lend itself to&nbsp;</li><li>Éclairage (n.m): lighting</li><li>Proie (n.f): proie</li><li>Être sur un événement (g.inf): be on an event</li><li>Être prêt de toute manière (g.inf): be ready anyway</li><li>Un film de cul (g.n): a porn film</li><li>Dans le tracé du patronage (g.p): in the path of patronage&nbsp;</li><li>Pince (n.f): pincer, pliers</li><li>Aplomb (n.m): balance, equilibrium, self-assurance</li><li>Flancher (v): quit</li><li>Roder (v): get into shape</li><li>Un lieu chargé d’histoire (g.n): a place steeped in history</li><li>Être sur la site de la cristallerie (g.inf): be on the site of the crystal factory</li><li>Esplanade (n.m): esplanade&nbsp;</li><li>Un faste d’antan (g.n): a splendor of yesteryear</li><li>Toutes les stars d&#8217;hier et d’aujourd’hui (g.n): all the stars of the past and the present</li><li>Portraits fantaisistes résolument pop et bourré de références (g.n): fanciful portraits resolutely pop and full of references</li><li>Grimace (n.f): grimace, face</li><li>Se déployer (v): deploy&nbsp;</li><li>Côtoyer (v): be close to, border on</li><li>Jet-set (n.m/n.f): jet-set &#8211; an international social group of wealthy people who travel the world to participate in social activities unavailable to ordinary people</li><li>Une pochette de disque (g.n): a record cover</li></ol>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />Topic 4 &#8211; Le fait divers (Short news item)</strong></p>
+
+
+
+<ol start="188"><li>Désintérêt (n.m): disinterest</li><li>Se tailler une place croissante (g.inf): make for ifself a growing place</li><li>Rubrique (n.f): column</li><li>Vénérable (adj): venerable&nbsp;</li><li>Impensable (adj): unbelievable</li><li>Conquérir (v): win, gain, conquer</li><li>Frilosité (n.f): feebleness&nbsp;</li><li>S’attaquer à l’affaire (g.inf): tackle the case</li><li>Matériau (n.m): material</li><li>Une oeuvre romanesque majeure (g.n): a major romantic work</li><li>Battre en brèche (g.inf): demolish</li><li>Opportunément (adv): opportunely&nbsp;</li><li>Prendre d’assaut (n.m): assault, storm&nbsp;</li><li>L’âge d’or du fait divers (g.n): the golden age of the short news item</li><li>Romancier/ romancière (n.m/n.f): novelist&nbsp;</li><li>Parcourir l’histoire de la littérature (g.inf): browse the history of literature</li><li>Être hermétique à l’air du temps (g.inf): be abstruse in tune with the times&nbsp;</li><li>Procès (n.m): trial&nbsp;</li><li>Un ressort narratif (g.n): a narrative spirit&nbsp;</li><li>À la grande différence d’aujourd’hui (g.p): unlike today</li><li>La gazette des tribunaux (g.n): the gazette of the courts&nbsp;</li><li>Appréhender (v): comprehend</li><li>Feuilleton (n.m): serial</li><li>Moeurs (n.f): lifestyle, behaviour</li><li>Un succès foudroyant (g.n): a smashing success</li><li>Être condamné à la prison à perpétuité (g.inf): be sentenced to life imprisonment</li><li>La trame de son livre à succès (g.n): background of his bestselling boo</li><li>Faire valoir (g.inf): argue</li><li>Nourrice (n.f): childminder, wet-nurse</li><li>Servir de base à qqch (g.inf): serve as a base for something</li><li>Une famille très aisée (g.n): a very wealthy family</li><li>Une sorte de maquette de théâtre (g.n): a kind of theater model</li><li>Case (n.f): box, compartment</li><li>Planche (n.f): plate, board</li><li>Onomatopée (n.f): onomatopoeia&nbsp;</li><li>Biais (n.m): angle, bias</li><li>Trucage (n.m): special effects</li><li>Rehausser (v): enhance</li><li>Adoucir des contrastes (g.inf): soften contrasts</li><li>Faire ressortir des couleurs (g.inf): bring out colors</li><li>Les plis du vêtement (g.n): garment folds&nbsp;</li><li>En fin de compte (g.adv): ultimately</li><li>Invoquer (v): appeal to, invoke</li><li>Un esprit affriolant (g.n): an alluring spirit</li><li>L’érotisme de la mythologie (n.m): eroticism of mythology</li><li>En filigrane (g.p): showing just beneath the surface</li><li>Filigrane (n.m): watermark</li><li>Vouer à (v): devote to</li></ol>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>II. Grammar (Grammaire)&nbsp;</strong></p>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />PRESENT PARTICIPLE AND THE VERBAL ADJECTIVE IN FRENCH (LE PARTICIPE PRÉSENT ET L&#8217;ADJECTIF VERBAL)</strong></p>
+
+
+
+<p>+/ The present participle expresses an action, it is invariable. It is used for:</p>
+
+
+
+<p>~ characterize a name (it replaces a relative clause introduced by <strong>qui</strong>)</p>
+
+
+
+<p>Ex: On la commence dans les minutes <strong>précédant</strong> l&#8217;aube. (We start it in the minutes before dawn.)</p>
+
+
+
+<p>~ express a cause or a consequence</p>
+
+
+
+<p>Ex:&nbsp;&nbsp;</p>
+
+
+
+<p>&#8211; La fleur de jasmin <strong>étant</strong> très fragile… (The jasmine flower being very fragile …)</p>
+
+
+
+<p>&#8211; Il bat tous les records, <strong>détrônant</strong> Dior. (It breaks all records, dethroning Dior.)</p>
+
+
+
+<p>~ express simultaneity or manner with a gerund</p>
+
+
+
+<p>Ex: Ils écrivent <strong>en imaginant</strong> l&#8217;interaction des ingrédients.</p>
+
+
+
+<p>+/ Some present participles are verbal adjectives, which express a quality. They agree in gender and number with the name they characterize.</p>
+
+
+
+<p>Ex:&nbsp;</p>
+
+
+
+<p>&#8211; C&#8217;est un métier <strong>exigeant</strong> de la mémoire. (present participle)</p>
+
+
+
+<p>&#8211; Les créateurs sont <strong>exigeants</strong>. (verbal adjective)</p>
+
+
+
+<p>+/ There are often spelling differences.</p>
+
+
+
+<p>Ex: Fatiguant &amp; fatigant, excellant &amp; excellent</p>
+
+
+
+<p>+/ The present participle can become a noun (sometimes with spelling differences).</p>
+
+
+
+<p>Ex: dirigeant =&gt; un/e dirigeant/e</p>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />EXPRESS ABILITIES AND SKILLS IN FRENCH (EXPRIMER LES CAPACITÉS ET LES COMPÉTENCES)</strong></p>
+
+
+
+<p>To talk about abilities and skills we can use the structures:&nbsp;</p>
+
+
+
+<p>+/ Savoir + V-infinitif</p>
+
+
+
+<p>+/ Pouvoir + V-infinitif</p>
+
+
+
+<p>+/ Être en mesure de / être capable de + V-infinitif&nbsp;</p>
+
+
+
+<p>+/ Faire preuve de + N</p>
+
+
+
+<p>+/ Être doté de + N</p>
+
+
+
+<p>+/ Être apte à + N/ V-infinitif</p>
+
+
+
+<p>+/ Être doué pour + N/ V-infinitif</p>
+
+
+
+<p>+/ La compétence, l’aptitude, la capacité</p>
+
+
+
+<p>+/ Un don, un goût, un talent, le génie</p>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />EXPRESS THE CONTINUITY, INTERRUPTION AND PROGRESSION OF AN ACTION IN FRENCH (EXPRIMER LA CONTINUITÉ, L&#8217;INTERRUPTION ET LA PROGRESSION D&#8217;UNE ACTION)</strong></p>
+
+
+
+<p>+/ To express the continuity of an action, we use <strong>toujours</strong> or <strong>encore</strong></p>
+
+
+
+<p>Ex: Elle utilise encore la sténo. (She still uses stenography.)</p>
+
+
+
+<p>+/ To express the interruption of an action, we use <strong>ne + V + plus&nbsp;</strong></p>
+
+
+
+<p>Ex: Ma grand-mère ne travaille plus. (My grandmother no longer works.)</p>
+
+
+
+<p>+/ To express an action not carried out but it will be carried out, we use <strong>ne + V + encore</strong></p>
+
+
+
+<p>Ex: L’ordinateur n’existait pas encore. (The computer has not yet existed.)</p>
+
+
+
+<p>+/ To express an action performed previously, we use <strong>déjà</strong></p>
+
+
+
+<p>Ex: La machine à écrire existait déjà en 1970. (The typewriter already existed in 1970.)</p>
+
+
+
+<p>+/ To express the progress, we use <strong>au</strong> <strong>fur et à mesure (que)</strong></p>
+
+
+
+<p>Ex: Au fur et à mesure que je lis et utilise Défi, j’apprécie davantage ce manuel.</p>
+
+
+
+<p>(As I read and use Challenge, I appreciate this manual more.)</p>
+
+
+
+<p>+/ To express the duration of an action, we use <strong>tant que&nbsp;</strong></p>
+
+
+
+<p>Ex: Tant que je peux, je fais du sport. (As long as I can, I play sports.)</p>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />COMPARISON IN FRENCH (LA COMPARAISON)</strong></p>
+
+
+
+<p>To compare, we can use different means.&nbsp;</p>
+
+
+
+<p>+/ some comparative forms like:&nbsp;</p>
+
+
+
+<ul><li><strong>plus, aussi, moins + ADJ + que</strong></li><li><strong>verbe + plus, autant, moins + que</strong></li><li><strong>plus de, autant de, moins de + nom + que (de)</strong></li><li><strong>comme + N/ V-infinitif&nbsp;</strong></li><li><strong>comme si + V-l&#8217;imparfait / V-plus-que-parfait</strong></li></ul>
+
+
+
+<p>+/ some adjectives like: <strong>supérieur à, égal à, inférieur à, différent de, semblable à, similaire à, pareil à, le/la/les même(s)</strong></p>
+
+
+
+<p>(these adjectives can be used alone or followed by a noun)</p>
+
+
+
+<p>+/ some structures with a noun: <strong>une sorte de, une espèce de, un genre de + N</strong></p>
+
+
+
+<p>+/ some verb structures like:&nbsp;</p>
+
+
+
+<ul><li><strong>ressembler à + N</strong></li><li><strong>se ressembler</strong></li><li><strong>On dirait + N</strong></li><li><strong>On dirait que + S + V (à l&#8217;indicatif)</strong></li></ul>
+
+
+
+<p class="has-medium-font-size"><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />LE SUFFIX -CIDE IN FRENCH (LE SUFFIXE -CIDE)</strong></p>
+
+
+
+<p>The suffix <strong>-cide</strong> in French refers to the action of destroying something or killing somebody</p>
+
+
+
+<p>Ex:</p>
+
+
+
+<p>&#8211; Une loi liberticide (a law which destroys freedom.)</p>
+
+
+
+<p>&#8211; Un homme accusé de féminicide (a man accused of murdering women or girls linked to the fact that they are women)</p>
+
+
+
+<p>&#8211; Un fratricide (a murder of a brother, a sister)</p>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>&nbsp;&nbsp;III. Useful expressions in French (Expressions utiles)</strong></p>
+
+
+
+<p><em>Here are some French expressions which can be heard in everyday language. Also, you can use them in your conversations to sound more native to French.</em></p>
+
+
+
+<ol><li>Un coup de génie ! (A stroke of genius!)</li><li>C’est l’ironie du sort. (It’s ironic.)</li><li>C’est quoi alors ? (What is it then?)</li><li>C’est un plaisir personnel. (It’s a personal pleasure.)</li><li>Pas du tout ! (Not at all.)</li><li>Merci à vous Julien, on se retrouve la semaine prochaine. (Thanks to you Julien, we&#8217;ll see you next week.)</li><li>Merci aussi à Joséphine ! (Thanks also to Joséphine!)</li><li>Merci également à Blia d&#8217;avoir été avec nous. (Thanks also to Blia for being with us.)</li><li>C’est un tout. (It is a whole.)</li><li>Il est habitué. (He is accustomed to it.)</li><li>C’est loin d’être anodin. (This is far from trivial.)</li><li>C’est ça qu’est rigolo. (This is the fun.)</li><li>C’est très long à gratter. (It takes a long time to scratch.)</li><li>On travaille millimètre par millimètre. (We work meticulously.)</li><li>Nous savons tout ça. (We know all of this.)</li><li>Ça met la pression ! (It puts pressure!)</li><li>C’est une belle rosse ! (It’s a nice nag!)</li><li>Je ne peux rien vous dire. (I can&#8217;t tell you anything.)</li><li>Moi, je sais ce qui s’est passé. (I know what happened.)</li><li>Alors, qu’est-ce qui s’est passé ? (So, what happened?)</li><li>Vous en êtes sûre ? &#8211; Un peu que j’en suis sûre. (Are you sure?&nbsp; &#8211; A little that I&#8217;m sure.)</li><li>Ça suffit bien. (That is good enough.)</li><li>Il est habitué. (He is accustomed to it.)</li></ol>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>IV. French idioms (Expressions imagées)&nbsp;</strong></p>
+
+
+
+<p><em>It is said that French language is very rich in idiomatiques expressions. In this section, let’s discover some common idioms in French.&nbsp;</em></p>
+
+
+
+<p><strong><em><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />French expressions about skill:&nbsp;</em></strong></p>
+
+
+
+<ol><li>Avoir des mains en or: être très adroit (be very skilful)</li><li>Avoir le tour de main : être adroit ( be skilful)</li><li>Avoir des doigts de fée: être très habile de ses mains et capable de réaliser des choses extraordinaires (be very skilled with his hands and able to achieve extraordinary things)</li></ol>
+
+
+
+<p><strong><em><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />French expressions about clumsiness:&nbsp;</em></strong></p>
+
+
+
+<ol start="4"><li>Avoir les mains pleines de pouces</li><li>Faire quelque chose comme un manche</li><li>Être comme un éléphant dans un magasin de porcelaine</li><li>Avoir deux mains gauches</li></ol>
+
+
+
+<p><strong><em><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />French idiomatic expressions and their familiar equivalent expressions:&nbsp;</em></strong></p>
+
+
+
+<ol start="8"><li>Il est trop mortel: Il est super, génial ( It’s awesome)</li><li>Je tombe dans les pommes : Je m&#8217;évanouis (I faint.)</li><li>Pisser le sang: Saigner abondamment (bleed profusely)</li><li>Faut avoir le cœur bien accroché : Faut pas être sensible. (It’s necessary not to be sensitive.)</li><li>Ça cartonne !: Ça marche bien, ça a du succès (It’s a hit.)</li><li>Ça me fait flipper: Ça me fait peur (It scares me.)</li><li>Je ne peux pas le voir en peinture.: Je le déteste. (I can’t stand him.)</li><li>Ça me fout la gerbe.: J’ai envie de vomir. (It freaks me out.)</li></ol>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>V. Did you know? (Le saviez-vous ?)</strong></p>
+
+
+
+<ol><li><strong>Le patrimoine culturel immatériel de l’Unesco</strong> englobe des traditions orales, des arts du spectacle, des pratiques sociales, des connaissances sur la nature et l’universe ou des connaissances et des savoir-faire nécessaires à certains métiers artisanaux.&nbsp;</li></ol>
+
+
+
+<p>(Unesco&#8217;s intangible cultural heritage encompasses oral traditions, performing arts, social practices, knowledge about nature and the universe, or knowledge and skills necessary for certain crafts.)</p>
+
+
+
+<ol start="2"><li>Après une version théâtrale de <strong>Chanson douce</strong> à la Comédie-Française, le cinéma français s’y est aussi intéressé, avec un long-métrage sorti en 2019. Aux États-Unis, le livre (traduit The Perfect Nanny) fait partie des dix meilleures ventes littéraires de 2018.&nbsp;</li></ol>
+
+
+
+<p>(After a theatrical version of Chanson Douce at the Comédie-Française, French cinema is also interested, with a feature film released in 2019. In the United States, the book (translated The Perfect Nanny) is one of the ten best&nbsp; 2018 literary sales.)</p>
+
+
+
+<p class="has-background has-medium-font-size has-vivid-green-cyan-background-color"><strong>VI. Pronunciation (Prononciation)&nbsp;</strong></p>
+
+
+
+<p class="has-text-align-center has-medium-font-size"><strong><em>Prohibited liaisons in French (Les liaisons interdites)</em></strong></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />In the nominal group (Dans le groupe nominal)</strong></p>
+
+
+
+<p><strong>#1 &#8211; between a noun and an adjective in the singular</strong></p>
+
+
+
+<p>Ex: un expert<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />errent</p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f33c.png" alt="🌼" class="wp-smiley" style="height: 1em; max-height: 1em;" />In the verbal group (Dans le groupe verbal)</strong></p>
+
+
+
+<p><strong>#2 &#8211; between the subject which is a noun/ a proper noun and the verb</strong></p>
+
+
+
+<p>Ex:&nbsp;</p>
+
+
+
+<p>&#8211; Rose<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />est là. P</p>
+
+
+
+<p>&#8211; Ce bâtiment<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />est très grand.</p>
+
+
+
+<p><strong>#3 &#8211; after the verbs</strong></p>
+
+
+
+<p>Ex: Je prends<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />un café.</p>
+
+
+
+<p><strong>#4 -after “et”</strong></p>
+
+
+
+<p>Ex:&nbsp;</p>
+
+
+
+<p>&#8211; Je prends<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />un café et<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />un croissant.</p>
+
+
+
+<p>&#8211; arbres‿et<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />arbustes</p>
+
+
+
+<p><strong>#5 &#8211; after interrogative pronouns/ adverbs: quand, combien, comment</strong></p>
+
+
+
+<p>Ex:&nbsp;</p>
+
+
+
+<p>&#8211; Quand<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />êtes-vous venu?</p>
+
+
+
+<p>&#8211; Combien<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />en veux-tu ?</p>
+
+
+
+<p>&#8211; Comment<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />est-ce que tu t’appelles ?</p>
+
+
+
+<p>Exceptions:&nbsp;</p>
+
+
+
+<p>&#8211; Quand‿est-ce que tu arrives?</p>
+
+
+
+<p>&#8211; Comment‿allez-vous?</p>
+
+
+
+<p><strong>#6 &#8211; after the subject pronoun and the inverted verb</strong></p>
+
+
+
+<p>Ex:&nbsp;</p>
+
+
+
+<p>&#8211; Qu’avons-nous<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />accepté ?&nbsp;</p>
+
+
+
+<p>&#8211; Sont-ils<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />arrivés ?</p>
+
+
+
+<p><strong>#7 &#8211;</strong> <strong>between a nominal group and a verbal group</strong></p>
+
+
+
+<p>Ex: Ses parents<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />ont refusé.&nbsp;</p>
+
+
+
+<p><strong>#8 &#8211; in numbers</strong></p>
+
+
+
+<p>Ex: cent<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />un</p>
+
+
+
+<p><strong>#9 &#8211; in front of words that start with an aspirated h</strong></p>
+
+
+
+<p>Ex: les<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />hiboux, les<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />haricots, les<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />hasards, les<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />Hongrois, les<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />handicapés&nbsp;</p>
+
+
+
+<p><strong>#10 &#8211; between two rhythmic groups</strong></p>
+
+
+
+<p>Ex: Les amis,<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />enthousiastes,<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2716.png" alt="✖" class="wp-smiley" style="height: 1em; max-height: 1em;" />ont‿accepté la proposition.</p>
+
+
+
+<p class="has-text-align-center">*****************************</p>
+
+
+
+<p>I hope you find the lesson useful. Below are other French lessons for B2 level in the series of DELF preparations for your reference. Au revoir et à bientôt ! Bye bye! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f49d.png" alt="💝" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-1-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-1-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-2-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-2-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-3-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-3-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-4-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-4-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-5-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-5-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-7-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-7-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-8-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-8-9/</strong></a></p>
+
+
+
+<p><strong><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><a href="https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-9-9/"><strong>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-9-9/</strong></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-6-9/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
