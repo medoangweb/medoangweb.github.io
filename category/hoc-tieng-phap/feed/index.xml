@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Sat, 11 Dec 2021 20:51:39 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5699</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5699</guid>
 
 					<description><![CDATA[Bảng chữ cái tiếng Pháp có 26 chữ cái, trong đó gồm 6 nguyên âm và 20 phụ âm. Ngoài ra, trong tiếng Pháp có các dấu như dấu mũ, dấu huyền, dấu sắc, dấu hai chấm trên đầu, dấu móc dưới và các ký&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -41,7 +41,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="701" height="1024" src="http://192.168.0.29/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg" alt="" class="wp-image-5700" srcset="/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg 701w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-205x300.jpg 205w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-768x1122.jpg 768w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-1052x1536.jpg 1052w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais.jpg 1099w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="701" height="1024" src="https://192.168.0.29/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg" alt="" class="wp-image-5700" srcset="/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg 701w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-205x300.jpg 205w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-768x1122.jpg 768w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-1052x1536.jpg 1052w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais.jpg 1099w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
 
 
 
@@ -61,7 +61,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 22:27:26 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5684</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5684</guid>
 
 					<description><![CDATA[Bonjour, nếu như các từ nhiều âm tiết trong tiếng Anh đều có trọng âm, thì trong tiếng Pháp, không có khái niệm trọng âm của từ, mà chỉ có trọng âm của câu. Chúng ta cùng tìm hiểu kỹ hơn về trọng âm tiếng&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -349,7 +349,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 21:36:42 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5669</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5669</guid>
 
 					<description><![CDATA[Noël hay còn gọi là lễ Giáng Sinh là một kỳ lễ lớn ở các nước phương Tây. Học sinh, sinh viên ở các nước này sẽ có kỳ nghỉ kéo dài 3 tuần để đón cả Noël và năm mới, cũng giống như ở&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -445,7 +445,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="735" height="1024" src="http://192.168.0.29/wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-735x1024.jpg" alt="" class="wp-image-5680" srcset="/wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-735x1024.jpg 735w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-215x300.jpg 215w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-768x1070.jpg 768w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-1102x1536.jpg 1102w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais.jpg 1191w" sizes="(max-width: 735px) 100vw, 735px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="735" height="1024" src="https://192.168.0.29/wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-735x1024.jpg" alt="" class="wp-image-5680" srcset="/wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-735x1024.jpg 735w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-215x300.jpg 215w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-768x1070.jpg 768w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais-1102x1536.jpg 1102w, /wp-content/uploads/2021/12/Vocabulaire_de_Noel_en_francais.jpg 1191w" sizes="(max-width: 735px) 100vw, 735px" /></figure>
 
 
 
@@ -453,7 +453,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="740" height="1024" src="http://192.168.0.29/wp-content/uploads/2021/12/Vocabulaire-repas-francais-740x1024.jpg" alt="" class="wp-image-5682" srcset="/wp-content/uploads/2021/12/Vocabulaire-repas-francais-740x1024.jpg 740w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-217x300.jpg 217w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-768x1062.jpg 768w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-1111x1536.jpg 1111w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais.jpg 1183w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="740" height="1024" src="https://192.168.0.29/wp-content/uploads/2021/12/Vocabulaire-repas-francais-740x1024.jpg" alt="" class="wp-image-5682" srcset="/wp-content/uploads/2021/12/Vocabulaire-repas-francais-740x1024.jpg 740w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-217x300.jpg 217w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-768x1062.jpg 768w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais-1111x1536.jpg 1111w, /wp-content/uploads/2021/12/Vocabulaire-repas-francais.jpg 1183w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
 
 
 
@@ -491,7 +491,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 21:31:05 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5665</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5665</guid>
 
 					<description><![CDATA[Bonjour, ở bài học trước, chúng ta đã tìm hiểu về nối âm enchaînement trong tiếng Pháp rồi, trong bài này, chúng ta sẽ tiếp tục tìm hiểu về nối âm liaison trong tiếng Pháp nhé! Nội dung bài học: Định nghĩa nối âm liaison&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1247,7 +1247,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 21:07:04 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5652</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5652</guid>
 
 					<description><![CDATA[Bonjour, nối âm là 1 đặc trưng khác biệt cơ bản giữa tiếng Việt và các ngoại ngữ khác như tiếng Anh hay tiếng Pháp. Nếu như tiếng Việt không có nối âm thì trong tiếng Anh và tiếng Pháp, nối âm được sử dụng&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1559,7 +1559,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:45:50 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5457</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5457</guid>
 
 					<description><![CDATA[Salut tout le monde ! Ở hai bài trước, chúng ta đã cùng tìm hiểu các trường hợp nối âm bắt buộc và không bắt buộc trong tiếng Pháp. Trong phần cuối cùng về liaison này, chúng ta sẽ tìm hiểu các trường hợp không&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1719,7 +1719,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://192.168.0.25/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg" alt="" class="wp-image-5461" width="847" height="500" srcset="/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg 1024w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-300x177.jpg 300w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-768x453.jpg 768w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1536x907.jpg 1536w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi.jpg 1560w" sizes="(max-width: 847px) 100vw, 847px" /><figcaption>Bảng tổng hợp các từ bắt đầu bằng âm H bật hơi hay gặp nhất trong tiếng Pháp</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://192.168.0.25/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg" alt="" class="wp-image-5461" width="847" height="500" srcset="/wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1024x605.jpg 1024w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-300x177.jpg 300w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-768x453.jpg 768w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi-1536x907.jpg 1536w, /wp-content/uploads/2021/11/Mots-commencant-par-h-aspire-h-bat-hoi.jpg 1560w" sizes="(max-width: 847px) 100vw, 847px" /><figcaption>Bảng tổng hợp các từ bắt đầu bằng âm H bật hơi hay gặp nhất trong tiếng Pháp</figcaption></figure>
 
 
 
@@ -1823,7 +1823,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:32:37 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5446</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5446</guid>
 
 					<description><![CDATA[Bonjour tout le monde ! Ở bài trước, chúng ta đã tìm hiểu những trường hợp nối âm bắt buộc trong tiếng Pháp. Trong bài học này, chúng ta sẽ tìm hiểu tiếp những trường hợp nối âm không bắt buộc trong tiếng Pháp nhé!&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -2107,7 +2107,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 17:17:07 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5433</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5433</guid>
 
 					<description><![CDATA[Salut à toutes et à tous ! Để có thể nói giống người bản địa thì ngoài việc đọc đúng các từ tiếng Pháp, chúng ta cần nối âm các từ trong khi nói nữa. Trong bài học này, chúng ta sẽ tìm hiểu những&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -2575,7 +2575,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 30 Oct 2021 11:35:13 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5425</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5425</guid>
 
 					<description><![CDATA[Halloween là 1 lễ hội bắt nguồn từ dân tộc Celt xa xưa sống ở nước Anh, Ireland và miền Bắc nước Pháp. Ngày nay, Halloween được các trẻ em ở Phương Tây rất háo hức mong chờ vì là dịp để trẻ em hoá&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -2671,7 +2671,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="749" height="1024" src="http://192.168.0.25/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg" alt="" class="wp-image-5417" srcset="/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg 749w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-219x300.jpg 219w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-768x1050.jpg 768w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-1123x1536.jpg 1123w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween.jpg 1192w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption>Từ vựng Halloween kèm ảnh minh họa</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="749" height="1024" src="https://192.168.0.25/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg" alt="" class="wp-image-5417" srcset="/wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-749x1024.jpg 749w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-219x300.jpg 219w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-768x1050.jpg 768w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween-1123x1536.jpg 1123w, /wp-content/uploads/2021/10/Vocabulaire-de-halloween-tu-vung-tieng-phap-chu-de-halloween.jpg 1192w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption>Từ vựng Halloween kèm ảnh minh họa</figcaption></figure>
 
 
 
@@ -2695,7 +2695,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 30 Oct 2021 11:25:13 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5420</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5420</guid>
 
 					<description><![CDATA[Bonjour à toutes et à tous, hôm nay, chúng ta sẽ học về các âm mũi trong tiếng Pháp. Có thể nói rằng, âm mũi là 1 đặc trưng cơ bản trong tiếng Pháp so với tiếng Anh và tiếng Việt. Vậy có bao nhiêu&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -3035,7 +3035,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="http://192.168.0.25/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg" alt="" class="wp-image-5444" srcset="/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg 1024w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-300x88.jpg 300w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-768x226.jpg 768w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1536x452.jpg 1536w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bảng tổng hợp cách nhận diện âm mũi tiếng Pháp</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="302" src="https://192.168.0.25/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg" alt="" class="wp-image-5444" srcset="/wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1024x302.jpg 1024w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-300x88.jpg 300w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-768x226.jpg 768w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap-1536x452.jpg 1536w, /wp-content/uploads/2021/11/Cach-nhan-dien-am-mui-trong-tieng-phap.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Bảng tổng hợp cách nhận diện âm mũi tiếng Pháp</figcaption></figure>
 
 
 

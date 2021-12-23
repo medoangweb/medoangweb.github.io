@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -24,7 +24,7 @@
 
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 09 Nov 2020 20:28:46 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=3856#comment-7408</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3856#comment-7408</guid>
 
 					<description><![CDATA[In reply to &lt;a href=&quot;/2020/05/07/bang-phien-am-quoc-te-tieng-phap-cach-doc-nguyen-am-phu-am-ban-nguyen-am-am-mui-tieng-phap/#comment-7405&quot;&gt;Gracie&lt;/a&gt;.
 
@@ -41,7 +41,7 @@ Comment của em là động lực để chị dành thời gian viết nhiều 
 
 		<dc:creator><![CDATA[Gracie]]></dc:creator>
 		<pubDate>Wed, 28 Oct 2020 00:56:57 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=3856#comment-7405</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3856#comment-7405</guid>
 
 					<description><![CDATA[cám ơn chị thiệt nhiều vì chia sẻ kiến thức vô cùng quý giá này, em đang tự học tiếng Pháp, và đang tìm cách học phát âm cho chuẩn, thật may mắn vì tìm được blog của chị. Từ nay em có nguồn để tham khảo và học hỏi rồi. Rất trân quý và cảm ơn chị &#060;3]]></description>
 			<content:encoded><![CDATA[<p>cám ơn chị thiệt nhiều vì chia sẻ kiến thức vô cùng quý giá này, em đang tự học tiếng Pháp, và đang tìm cách học phát âm cho chuẩn, thật may mắn vì tìm được blog của chị. Từ nay em có nguồn để tham khảo và học hỏi rồi. Rất trân quý và cảm ơn chị &lt;3</p>

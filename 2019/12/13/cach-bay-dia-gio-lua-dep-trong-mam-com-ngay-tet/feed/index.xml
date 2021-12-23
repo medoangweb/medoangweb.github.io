@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -24,7 +24,7 @@
 
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2019 08:29:21 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=46#comment-4</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=46#comment-4</guid>
 
 					<description><![CDATA[In reply to &lt;a href=&quot;/2019/12/13/cach-bay-dia-gio-lua-dep-trong-mam-com-ngay-tet/#comment-3&quot;&gt;Mẹ bé sứt&lt;/a&gt;.
 
@@ -41,7 +41,7 @@ Cám ơn mẹ bé sứt rất nhiều]]></description>
 
 		<dc:creator><![CDATA[Mẹ bé sứt]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2019 08:00:31 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=46#comment-3</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=46#comment-3</guid>
 
 					<description><![CDATA[Bài viết rất hay]]></description>
 			<content:encoded><![CDATA[<p>Bài viết rất hay</p>
@@ -55,7 +55,7 @@ Cám ơn mẹ bé sứt rất nhiều]]></description>
 
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2019 07:46:18 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=46#comment-2</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=46#comment-2</guid>
 
 					<description><![CDATA[Hẹn gặp lại các mẹ sớm ạ!]]></description>
 			<content:encoded><![CDATA[<p>Hẹn gặp lại các mẹ sớm ạ!</p>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 10 Dec 2021 21:41:14 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://192.168.0.29/?p=5672</guid>
+		<guid isPermaLink="false">https://192.168.0.29/?p=5672</guid>
 
 					<description><![CDATA[Noel hay còn gọi là lễ Giáng Sinh là một kỳ lễ lớn ở các nước phương Tây. Học sinh, sinh viên ở các nước này sẽ có kỳ nghỉ kéo dài 3 tuần để đón cả Noel và năm mới, cũng giống như ở&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -107,7 +107,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="747" height="1024" src="http://192.168.0.29/wp-content/uploads/2021/12/Christmas_vocabulary-747x1024.jpg" alt="" class="wp-image-5676" srcset="/wp-content/uploads/2021/12/Christmas_vocabulary-747x1024.jpg 747w, /wp-content/uploads/2021/12/Christmas_vocabulary-219x300.jpg 219w, /wp-content/uploads/2021/12/Christmas_vocabulary-768x1052.jpg 768w, /wp-content/uploads/2021/12/Christmas_vocabulary-1121x1536.jpg 1121w, /wp-content/uploads/2021/12/Christmas_vocabulary.jpg 1183w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="747" height="1024" src="https://192.168.0.29/wp-content/uploads/2021/12/Christmas_vocabulary-747x1024.jpg" alt="" class="wp-image-5676" srcset="/wp-content/uploads/2021/12/Christmas_vocabulary-747x1024.jpg 747w, /wp-content/uploads/2021/12/Christmas_vocabulary-219x300.jpg 219w, /wp-content/uploads/2021/12/Christmas_vocabulary-768x1052.jpg 768w, /wp-content/uploads/2021/12/Christmas_vocabulary-1121x1536.jpg 1121w, /wp-content/uploads/2021/12/Christmas_vocabulary.jpg 1183w" sizes="(max-width: 747px) 100vw, 747px" /></figure>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="763" height="1024" src="http://192.168.0.29/wp-content/uploads/2021/12/Christmas_dinner_vocabulary-763x1024.jpg" alt="" class="wp-image-5678" srcset="/wp-content/uploads/2021/12/Christmas_dinner_vocabulary-763x1024.jpg 763w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-223x300.jpg 223w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-768x1031.jpg 768w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-1144x1536.jpg 1144w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary.jpg 1202w" sizes="(max-width: 763px) 100vw, 763px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="763" height="1024" src="https://192.168.0.29/wp-content/uploads/2021/12/Christmas_dinner_vocabulary-763x1024.jpg" alt="" class="wp-image-5678" srcset="/wp-content/uploads/2021/12/Christmas_dinner_vocabulary-763x1024.jpg 763w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-223x300.jpg 223w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-768x1031.jpg 768w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary-1144x1536.jpg 1144w, /wp-content/uploads/2021/12/Christmas_dinner_vocabulary.jpg 1202w" sizes="(max-width: 763px) 100vw, 763px" /></figure>
 
 
 
@@ -143,7 +143,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 30 Oct 2021 11:31:02 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://192.168.0.25/?p=5423</guid>
+		<guid isPermaLink="false">https://192.168.0.25/?p=5423</guid>
 
 					<description><![CDATA[Halloween là 1 lễ hội bắt nguồn từ dân tộc Celt xa xưa sống ở nước Anh, Ireland và miền Bắc nước Pháp. Ngày nay, Halloween được các trẻ em ở Phương Tây rất háo hức mong chờ vì đây là dịp để trẻ em&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -239,7 +239,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="775" height="1024" src="http://192.168.0.25/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg" alt="" class="wp-image-5418" srcset="/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg 775w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-227x300.jpg 227w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-768x1015.jpg 768w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-1162x1536.jpg 1162w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween.jpg 1215w" sizes="(max-width: 775px) 100vw, 775px" /><figcaption>Từ vựng Halloween cùng ảnh minh họa</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="775" height="1024" src="https://192.168.0.25/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg" alt="" class="wp-image-5418" srcset="/wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-775x1024.jpg 775w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-227x300.jpg 227w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-768x1015.jpg 768w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween-1162x1536.jpg 1162w, /wp-content/uploads/2021/10/Halloween-vocabulary-tu-vung-tieng-anh-chu-de-halloween.jpg 1215w" sizes="(max-width: 775px) 100vw, 775px" /><figcaption>Từ vựng Halloween cùng ảnh minh họa</figcaption></figure>
 
 
 
@@ -263,7 +263,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 18 Dec 2020 08:49:22 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=4181</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=4181</guid>
 
 					<description><![CDATA[There are many ways to learn English such as doing grammar exercises, reading books, watching movies with subtitles, reading newspapers, etc. In this article, I am going to share an effective way to learn foreign languages ​​with the application Gorgeously &#8211; Good news app on&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -295,7 +295,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="465" src="http://medoang.com/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg" alt="Only good news, happy news - Gorgeously" class="wp-image-4196" srcset="/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg 1024w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-300x136.jpeg 300w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-768x348.jpeg 768w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app.jpeg 1307w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="465" src="https://medoang.com/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg" alt="Only good news, happy news - Gorgeously" class="wp-image-4196" srcset="/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg 1024w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-300x136.jpeg 300w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-768x348.jpeg 768w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app.jpeg 1307w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -447,7 +447,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 18 Dec 2020 08:34:12 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=4179</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=4179</guid>
 
 					<description><![CDATA[Có khá nhiều cách để học tiếng Anh như làm bài tập ngữ pháp, học theo giáo trình, xem phim có phụ đề, đọc báo… Trong bài viết này, mình sẽ chia sẻ 1 cách học ngoại ngữ hiệu quả với ứng dụng đọc tin&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -479,7 +479,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg" alt="Only good news, happy news - Gorgeously" class="wp-image-4196" width="473" height="215" srcset="/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg 1024w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-300x136.jpeg 300w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-768x348.jpeg 768w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app.jpeg 1307w" sizes="(max-width: 473px) 100vw, 473px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg" alt="Only good news, happy news - Gorgeously" class="wp-image-4196" width="473" height="215" srcset="/wp-content/uploads/2020/12/Gorgeously-daily-news-app-1024x465.jpeg 1024w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-300x136.jpeg 300w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app-768x348.jpeg 768w, /wp-content/uploads/2020/12/Gorgeously-daily-news-app.jpeg 1307w" sizes="(max-width: 473px) 100vw, 473px" /></figure>
 
 
 
@@ -639,7 +639,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 24 Apr 2020 07:29:10 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3754</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3754</guid>
 
 					<description><![CDATA[Sử dụng thành ngữ là một cách để nói hay, chuẩn như người bản ngữ. Các bạn đã nắm vững các thành ngữ trong phần 1 của series học thành ngữ chưa? Các bạn có thể xem lại các thành ngữ đó tại đây. Trong&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1075,7 +1075,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Thu, 23 Apr 2020 10:25:22 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3739</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3739</guid>
 
 					<description><![CDATA[Khi mới học tiếng Anh, bạn sẽ bắt đầu như thế nào? Học ngữ pháp? Nhớ thật nhiều từ vựng? Thực ra, chúng ta nên bắt đầu học 1 ngoại ngữ mới bằng việc học phát âm đầu tiên. Khi bạn phát âm đúng, bạn&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1175,7 +1175,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Wed, 22 Apr 2020 10:14:47 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3724</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3724</guid>
 
 					<description><![CDATA[Thật không có gì vui hơn khi chúng ta nói thành thạo một ngoại ngữ và có thể tự tin giao tiếp với người bản xứ phải không nào? Trong bài viết này, mình sẽ chia sẻ những bộ sách tiếng Anh giao tiếp hay&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1287,7 +1287,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Tue, 21 Apr 2020 10:45:40 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3714</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3714</guid>
 
 					<description><![CDATA[Năm 2019 đã đánh dấu sự thay đổi cấu trúc đề thi TOEIC mới theo thông báo chính thức của IIG &#8211; đơn vị duy nhất tổ chức thi TOEIC tại Việt Nam. Trong bài viết này, chúng ta cùng tìm hiểu sự khác nhau&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1299,7 +1299,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="http://medoang.com/wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1024x518.jpeg" alt="" class="wp-image-3715" srcset="/wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1024x518.jpeg 1024w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-300x152.jpeg 300w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-768x389.jpeg 768w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1536x777.jpeg 1536w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019.jpeg 1713w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Cấu trúc đề thi TOEIC mới  2019</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="https://medoang.com/wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1024x518.jpeg" alt="" class="wp-image-3715" srcset="/wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1024x518.jpeg 1024w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-300x152.jpeg 300w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-768x389.jpeg 768w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019-1536x777.jpeg 1536w, /wp-content/uploads/2020/04/cau-truc-de-thi-toeic-moi-2019.jpeg 1713w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Cấu trúc đề thi TOEIC mới  2019</figcaption></figure>
 
 
 
@@ -1331,7 +1331,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="775" height="509" src="http://medoang.com/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg" alt="" data-id="3703" data-full-url="http://medoang.com/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg" data-link="http://medoang.com/2020/04/21/tong-hop-nhung-sach-luyen-thi-toeic-hieu-qua/ed5df0f5-81ee-4b2b-821b-3719cac55b64/" class="wp-image-3703" srcset="/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg 775w, /wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64-300x197.jpeg 300w, /wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64-768x504.jpeg 768w" sizes="(max-width: 775px) 100vw, 775px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="874" height="560" src="http://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" alt="" data-id="3704" data-full-url="http://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" data-link="http://medoang.com/2020/04/21/tong-hop-nhung-sach-luyen-thi-toeic-hieu-qua/4a4bd58a-08aa-4957-b59d-c3fd92cf11c6/" class="wp-image-3704" srcset="/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg 874w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-300x192.jpeg 300w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-768x492.jpeg 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="775" height="509" src="https://medoang.com/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg" alt="" data-id="3703" data-full-url="https://medoang.com/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg" data-link="https://medoang.com/2020/04/21/tong-hop-nhung-sach-luyen-thi-toeic-hieu-qua/ed5df0f5-81ee-4b2b-821b-3719cac55b64/" class="wp-image-3703" srcset="/wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64.jpeg 775w, /wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64-300x197.jpeg 300w, /wp-content/uploads/2020/04/ED5DF0F5-81EE-4B2B-821B-3719CAC55B64-768x504.jpeg 768w" sizes="(max-width: 775px) 100vw, 775px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="874" height="560" src="https://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" alt="" data-id="3704" data-full-url="https://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" data-link="https://medoang.com/2020/04/21/tong-hop-nhung-sach-luyen-thi-toeic-hieu-qua/4a4bd58a-08aa-4957-b59d-c3fd92cf11c6/" class="wp-image-3704" srcset="/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg 874w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-300x192.jpeg 300w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-768x492.jpeg 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure></li></ul></figure>
 
 
 
@@ -1355,7 +1355,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Tue, 21 Apr 2020 10:22:51 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3696</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3696</guid>
 
 					<description><![CDATA[TOEIC (Test of English for International Communication) là một bài thi tiếng Anh giao tiếp&#160;quốc tế dành cho người đi làm, đặc biệt là cho những ai muốn&#160;sử dụng tiếng Anh trong môi trường giao tiếp và làm việc quốc tế. Trên mạng có rất&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1459,7 +1459,7 @@
 
 
 
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="298" height="396" src="http://medoang.com/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png" alt="" data-id="3705" data-full-url="http://medoang.com/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png" data-link="http://medoang.com/?attachment_id=3705" class="wp-image-3705" srcset="/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png 298w, /wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A-226x300.png 226w" sizes="(max-width: 298px) 100vw, 298px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="298" height="396" src="https://medoang.com/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png" alt="" data-id="3705" data-full-url="https://medoang.com/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png" data-link="https://medoang.com/?attachment_id=3705" class="wp-image-3705" srcset="/wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A.png 298w, /wp-content/uploads/2020/04/361B751B-B6F2-430B-BD8F-58833FE3190A-226x300.png 226w" sizes="(max-width: 298px) 100vw, 298px" /></figure></li></ul></figure>
 
 
 
@@ -1471,7 +1471,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="874" height="560" src="http://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" alt="" class="wp-image-3704" srcset="/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg 874w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-300x192.jpeg 300w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-768x492.jpeg 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="874" height="560" src="https://medoang.com/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg" alt="" class="wp-image-3704" srcset="/wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6.jpeg 874w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-300x192.jpeg 300w, /wp-content/uploads/2020/04/4A4BD58A-08AA-4957-B59D-C3FD92CF11C6-768x492.jpeg 768w" sizes="(max-width: 874px) 100vw, 874px" /></figure>
 
 
 
@@ -1591,7 +1591,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 18 Apr 2020 19:30:27 +0000</pubDate>
 				<category><![CDATA[Học tiếng Anh]]></category>
-		<guid isPermaLink="false">http://medoang.com/?p=3620</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=3620</guid>
 
 					<description><![CDATA[IELTS (International English Language Testing System) là một bài thi đánh giá khả năng tiếng Anh cho những ai muốn học tập, làm việc ở nước ngoài. Đây là một kỳ thi khá khó nên đòi hỏi chúng ta cần học nhiều sách, có đủ&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1631,7 +1631,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="436" height="614" src="http://medoang.com/wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73.jpeg" alt="" class="wp-image-3621" srcset="/wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73.jpeg 436w, /wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73-213x300.jpeg 213w" sizes="(max-width: 436px) 100vw, 436px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="436" height="614" src="https://medoang.com/wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73.jpeg" alt="" class="wp-image-3621" srcset="/wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73.jpeg 436w, /wp-content/uploads/2020/04/3002524E-CFB7-46C2-A610-5EDEA22A2D73-213x300.jpeg 213w" sizes="(max-width: 436px) 100vw, 436px" /></figure>
 
 
 
@@ -1647,7 +1647,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="384" height="499" src="http://medoang.com/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg" alt="" data-id="3624" data-full-url="http://medoang.com/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg" data-link="http://medoang.com/?attachment_id=3624" class="wp-image-3624" srcset="/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg 384w, /wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A-231x300.jpeg 231w" sizes="(max-width: 384px) 100vw, 384px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="777" height="1024" src="http://medoang.com/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-777x1024.jpeg" alt="" data-id="3625" data-full-url="http://medoang.com/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875.jpeg" data-link="http://medoang.com/?attachment_id=3625" class="wp-image-3625" srcset="/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-777x1024.jpeg 777w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-228x300.jpeg 228w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-768x1012.jpeg 768w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-1165x1536.jpeg 1165w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875.jpeg 1500w" sizes="(max-width: 777px) 100vw, 777px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="354" height="499" src="http://medoang.com/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg" alt="" data-id="3627" data-full-url="http://medoang.com/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg" data-link="http://medoang.com/?attachment_id=3627" class="wp-image-3627" srcset="/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg 354w, /wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6-213x300.jpeg 213w" sizes="(max-width: 354px) 100vw, 354px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="384" height="499" src="https://medoang.com/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg" alt="" data-id="3624" data-full-url="https://medoang.com/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg" data-link="https://medoang.com/?attachment_id=3624" class="wp-image-3624" srcset="/wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A.jpeg 384w, /wp-content/uploads/2020/04/36619273-B497-4CD7-931F-814E0B672F6A-231x300.jpeg 231w" sizes="(max-width: 384px) 100vw, 384px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="777" height="1024" src="https://medoang.com/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-777x1024.jpeg" alt="" data-id="3625" data-full-url="https://medoang.com/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875.jpeg" data-link="https://medoang.com/?attachment_id=3625" class="wp-image-3625" srcset="/wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-777x1024.jpeg 777w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-228x300.jpeg 228w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-768x1012.jpeg 768w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875-1165x1536.jpeg 1165w, /wp-content/uploads/2020/04/BCED84BB-D531-4C95-9999-CF1AD06AB875.jpeg 1500w" sizes="(max-width: 777px) 100vw, 777px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="354" height="499" src="https://medoang.com/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg" alt="" data-id="3627" data-full-url="https://medoang.com/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg" data-link="https://medoang.com/?attachment_id=3627" class="wp-image-3627" srcset="/wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6.jpeg 354w, /wp-content/uploads/2020/04/105D77DD-BB7A-4899-8D4B-1202242A22E6-213x300.jpeg 213w" sizes="(max-width: 354px) 100vw, 354px" /></figure></li></ul></figure>
 
 
 
@@ -1659,7 +1659,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="765" height="1024" src="http://medoang.com/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-765x1024.jpeg" alt="" data-id="3632" data-full-url="http://medoang.com/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA.jpeg" data-link="http://medoang.com/?attachment_id=3632" class="wp-image-3632" srcset="/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-765x1024.jpeg 765w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-224x300.jpeg 224w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-768x1028.jpeg 768w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-1148x1536.jpeg 1148w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA.jpeg 1161w" sizes="(max-width: 765px) 100vw, 765px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="320" height="500" src="http://medoang.com/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg" alt="" data-id="3630" data-full-url="http://medoang.com/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg" data-link="http://medoang.com/?attachment_id=3630" class="wp-image-3630" srcset="/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg 320w, /wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50-192x300.jpeg 192w" sizes="(max-width: 320px) 100vw, 320px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="765" height="1024" src="https://medoang.com/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-765x1024.jpeg" alt="" data-id="3632" data-full-url="https://medoang.com/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA.jpeg" data-link="https://medoang.com/?attachment_id=3632" class="wp-image-3632" srcset="/wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-765x1024.jpeg 765w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-224x300.jpeg 224w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-768x1028.jpeg 768w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA-1148x1536.jpeg 1148w, /wp-content/uploads/2020/04/99E0D580-1FD1-413A-90CC-9BFBBDD12EFA.jpeg 1161w" sizes="(max-width: 765px) 100vw, 765px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="320" height="500" src="https://medoang.com/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg" alt="" data-id="3630" data-full-url="https://medoang.com/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg" data-link="https://medoang.com/?attachment_id=3630" class="wp-image-3630" srcset="/wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50.jpeg 320w, /wp-content/uploads/2020/04/E3D57D15-0BE5-4C9A-B8A8-6D679D5DEB50-192x300.jpeg 192w" sizes="(max-width: 320px) 100vw, 320px" /></figure></li></ul></figure>
 
 
 
@@ -1667,7 +1667,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="764" src="http://medoang.com/wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72.jpeg" alt="" class="wp-image-3634" srcset="/wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72.jpeg 600w, /wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72-236x300.jpeg 236w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="764" src="https://medoang.com/wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72.jpeg" alt="" class="wp-image-3634" srcset="/wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72.jpeg 600w, /wp-content/uploads/2020/04/00858343-6B1D-4D92-923F-9BBE4D082A72-236x300.jpeg 236w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -1691,11 +1691,11 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="729" height="1024" src="http://medoang.com/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-729x1024.jpeg" alt="" data-id="3641" data-full-url="http://medoang.com/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991.jpeg" data-link="http://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/4a7b878f-6e40-4dbe-8e2f-4ec2dfe1a991/" class="wp-image-3641" srcset="/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-729x1024.jpeg 729w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-214x300.jpeg 214w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-768x1079.jpeg 768w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991.jpeg 854w" sizes="(max-width: 729px) 100vw, 729px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="560" height="787" src="http://medoang.com/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg" alt="" data-id="3643" data-full-url="http://medoang.com/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg" data-link="http://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/9334a3ef-7dff-4177-947c-6b7c243d61fe/" class="wp-image-3643" srcset="/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg 560w, /wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE-213x300.jpeg 213w" sizes="(max-width: 560px) 100vw, 560px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="729" height="1024" src="https://medoang.com/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-729x1024.jpeg" alt="" data-id="3641" data-full-url="https://medoang.com/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991.jpeg" data-link="https://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/4a7b878f-6e40-4dbe-8e2f-4ec2dfe1a991/" class="wp-image-3641" srcset="/wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-729x1024.jpeg 729w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-214x300.jpeg 214w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991-768x1079.jpeg 768w, /wp-content/uploads/2020/04/4A7B878F-6E40-4DBE-8E2F-4EC2DFE1A991.jpeg 854w" sizes="(max-width: 729px) 100vw, 729px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="560" height="787" src="https://medoang.com/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg" alt="" data-id="3643" data-full-url="https://medoang.com/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg" data-link="https://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/9334a3ef-7dff-4177-947c-6b7c243d61fe/" class="wp-image-3643" srcset="/wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE.jpeg 560w, /wp-content/uploads/2020/04/9334A3EF-7DFF-4177-947C-6B7C243D61FE-213x300.jpeg 213w" sizes="(max-width: 560px) 100vw, 560px" /></figure></li></ul></figure>
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="550" height="550" src="http://medoang.com/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg" alt="" data-id="3642" data-full-url="http://medoang.com/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg" data-link="http://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/762e90c5-a28a-4bc7-b103-d64496a0e65c/" class="wp-image-3642" srcset="/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg 550w, /wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C-300x300.jpeg 300w, /wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C-150x150.jpeg 150w" sizes="(max-width: 550px) 100vw, 550px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="558" height="787" src="http://medoang.com/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg" alt="" data-id="3640" data-full-url="http://medoang.com/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg" data-link="http://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/86fa3940-e974-45dd-97c4-3be376cab7d0/" class="wp-image-3640" srcset="/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg 558w, /wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0-213x300.jpeg 213w" sizes="(max-width: 558px) 100vw, 558px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="550" height="550" src="https://medoang.com/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg" alt="" data-id="3642" data-full-url="https://medoang.com/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg" data-link="https://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/762e90c5-a28a-4bc7-b103-d64496a0e65c/" class="wp-image-3642" srcset="/wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C.jpeg 550w, /wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C-300x300.jpeg 300w, /wp-content/uploads/2020/04/762E90C5-A28A-4BC7-B103-D64496A0E65C-150x150.jpeg 150w" sizes="(max-width: 550px) 100vw, 550px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="558" height="787" src="https://medoang.com/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg" alt="" data-id="3640" data-full-url="https://medoang.com/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg" data-link="https://medoang.com/2020/04/18/tong-hop-nhung-sach-luyen-thi-ielts/86fa3940-e974-45dd-97c4-3be376cab7d0/" class="wp-image-3640" srcset="/wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0.jpeg 558w, /wp-content/uploads/2020/04/86FA3940-E974-45DD-97C4-3BE376CAB7D0-213x300.jpeg 213w" sizes="(max-width: 558px) 100vw, 558px" /></figure></li></ul></figure>
 
 
 
