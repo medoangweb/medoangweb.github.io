@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 20:33:26 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5210</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5210</guid>
 
 					<description><![CDATA[Les amandes sont une noix riche en vitamine E, en antioxydants, en graisses insaturées saines pour le cerveau et en de nombreux autres minéraux. Dans cet article, je vais partager comment faire des amandes beurrées, croustillantes et caramélisées sans additifs artificiels ni conservateurs. Cela peut&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -167,7 +167,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 20:30:04 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5208</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5208</guid>
 
 					<description><![CDATA[Almonds are a nut rich in vitamin E, antioxidants, brain-healthy unsaturated fats and many other minerals. In this article, I will share how to make buttery, crispy, caramelized almonds without artificial additives and preservatives. This can be a nutritious snack for the whole family or&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -307,7 +307,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Mon, 20 Sep 2021 20:26:40 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://192.168.0.34/?p=5205</guid>
+		<guid isPermaLink="false">http://192.168.0.34/?p=5205</guid>
 
 					<description><![CDATA[Hạnh nhân là một loại hạt dồi dào vitamin E, chất chống oxy hoá, chất béo chưa bão hoà tốt cho trí não và rất nhiều khoáng chất khác nữa. Từ khi có gia đình, đặc biệt là từ khi có con nhỏ thì mình&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -468,7 +468,7 @@
 		<pubDate>Thu, 06 May 2021 06:50:31 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
 		<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4721</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4721</guid>
 
 					<description><![CDATA[Bonjour à toutes et à tous ! Les couleurs les plus communes sont blanc, noir, rouge, jaune, bleu, vert, violet, marron, orange, gris, rose. Voici donc une liste d’expressions idiomatiques avec ces couleurs en langue française et leurs significations. #1 &#8211; VERT Être vert :&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -628,7 +628,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 09 Jan 2021 07:57:13 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4252</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4252</guid>
 
 					<description><![CDATA[In France, despite the fact that crepes are eaten all year round, there is a feast of crepes which takes place on the 2nd February every year. It is also known as La Chandeleur (Candlemas) &#8211; the occasion that families and friends make crepes and&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -660,7 +660,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="846" src="https://medoang.com/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg" alt="" class="wp-image-4276" srcset="/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg 1024w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-300x248.jpeg 300w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-768x634.jpeg 768w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1536x1269.jpeg 1536w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-2048x1692.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="846" src="http://medoang.com/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg" alt="" class="wp-image-4276" srcset="/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg 1024w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-300x248.jpeg 300w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-768x634.jpeg 768w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1536x1269.jpeg 1536w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-2048x1692.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -668,7 +668,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1009" src="https://medoang.com/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg" alt="" class="wp-image-4265" srcset="/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg 1024w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-300x295.jpeg 300w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-768x756.jpeg 768w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1536x1513.jpeg 1536w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-2048x2017.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1009" src="http://medoang.com/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg" alt="" class="wp-image-4265" srcset="/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg 1024w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-300x295.jpeg 300w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-768x756.jpeg 768w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1536x1513.jpeg 1536w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-2048x2017.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -708,7 +708,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="818" src="https://medoang.com/wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1024x818.jpeg" alt="" class="wp-image-4277" srcset="/wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1024x818.jpeg 1024w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-300x240.jpeg 300w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-768x613.jpeg 768w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1536x1226.jpeg 1536w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-2048x1635.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="818" src="http://medoang.com/wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1024x818.jpeg" alt="" class="wp-image-4277" srcset="/wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1024x818.jpeg 1024w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-300x240.jpeg 300w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-768x613.jpeg 768w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-1536x1226.jpeg 1536w, /wp-content/uploads/2021/01/B873DC07-1807-47B8-A203-603B0823EB19-2048x1635.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -720,7 +720,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="670" src="https://medoang.com/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg" alt="" class="wp-image-4269" srcset="/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg 1024w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-300x196.jpeg 300w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-768x503.jpeg 768w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="670" src="http://medoang.com/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg" alt="" class="wp-image-4269" srcset="/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg 1024w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-300x196.jpeg 300w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-768x503.jpeg 768w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -760,7 +760,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="885" src="https://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg" alt="" data-id="4267" data-full-url="https://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg" data-link="https://medoang.com/c681f17e-cef5-4a4b-b534-cf94b999b0a3/" class="wp-image-4267" srcset="/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg 1024w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-300x259.jpeg 300w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-768x664.jpeg 768w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg 1303w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="933" src="https://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg" alt="" data-id="4266" data-full-url="https://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-scaled.jpeg" data-link="https://medoang.com/74eb18bc-a7d3-4294-a7d5-5aa49f4da081/" class="wp-image-4266" srcset="/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg 1024w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-300x273.jpeg 300w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-768x700.jpeg 768w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1536x1400.jpeg 1536w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-2048x1866.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="769" src="https://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg" alt="" data-id="4268" data-full-url="https://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg" data-link="https://medoang.com/4f89201a-4716-4da2-929a-2b9f7329c7f0/" class="wp-image-4268" srcset="/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg 1024w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-300x225.jpeg 300w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-768x577.jpeg 768w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg 1350w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="885" src="http://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg" alt="" data-id="4267" data-full-url="http://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg" data-link="http://medoang.com/c681f17e-cef5-4a4b-b534-cf94b999b0a3/" class="wp-image-4267" srcset="/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg 1024w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-300x259.jpeg 300w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-768x664.jpeg 768w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg 1303w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="933" src="http://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg" alt="" data-id="4266" data-full-url="http://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-scaled.jpeg" data-link="http://medoang.com/74eb18bc-a7d3-4294-a7d5-5aa49f4da081/" class="wp-image-4266" srcset="/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg 1024w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-300x273.jpeg 300w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-768x700.jpeg 768w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1536x1400.jpeg 1536w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-2048x1866.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="769" src="http://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg" alt="" data-id="4268" data-full-url="http://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg" data-link="http://medoang.com/4f89201a-4716-4da2-929a-2b9f7329c7f0/" class="wp-image-4268" srcset="/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg 1024w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-300x225.jpeg 300w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-768x577.jpeg 768w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg 1350w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -812,7 +812,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="869" src="https://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg" alt="" data-id="4272" data-full-url="https://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg" data-link="https://medoang.com/52485719-e2ab-4a21-9f9e-34bf5c853dce/" class="wp-image-4272" srcset="/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg 1024w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-300x255.jpeg 300w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-768x652.jpeg 768w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1536x1303.jpeg 1536w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg 1755w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="848" src="https://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg" alt="" data-id="4273" data-full-url="https://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-scaled.jpeg" data-link="https://medoang.com/bebd3f9c-9d40-4b1d-873c-f4136b0869a1/" class="wp-image-4273" srcset="/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg 1024w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-300x248.jpeg 300w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-768x636.jpeg 768w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1536x1272.jpeg 1536w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="869" src="http://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg" alt="" data-id="4272" data-full-url="http://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg" data-link="http://medoang.com/52485719-e2ab-4a21-9f9e-34bf5c853dce/" class="wp-image-4272" srcset="/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg 1024w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-300x255.jpeg 300w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-768x652.jpeg 768w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1536x1303.jpeg 1536w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg 1755w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="848" src="http://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg" alt="" data-id="4273" data-full-url="http://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-scaled.jpeg" data-link="http://medoang.com/bebd3f9c-9d40-4b1d-873c-f4136b0869a1/" class="wp-image-4273" srcset="/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg 1024w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-300x248.jpeg 300w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-768x636.jpeg 768w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1536x1272.jpeg 1536w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -832,7 +832,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="1024" src="https://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg" alt="" data-id="4270" data-full-url="https://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D.jpeg" data-link="https://medoang.com/500d3881-4386-4b75-b863-dee943acb10d/" class="wp-image-4270" srcset="/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg 970w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-284x300.jpeg 284w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-768x811.jpeg 768w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1455x1536.jpeg 1455w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1940x2048.jpeg 1940w" sizes="(max-width: 970px) 100vw, 970px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="856" src="https://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg" alt="" data-id="4271" data-full-url="https://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-scaled.jpeg" data-link="https://medoang.com/96d37387-7d18-4750-b866-8b90c6fc1dd3/" class="wp-image-4271" srcset="/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg 1024w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-300x251.jpeg 300w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-768x642.jpeg 768w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1536x1284.jpeg 1536w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-2048x1713.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="1024" src="http://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg" alt="" data-id="4270" data-full-url="http://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D.jpeg" data-link="http://medoang.com/500d3881-4386-4b75-b863-dee943acb10d/" class="wp-image-4270" srcset="/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg 970w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-284x300.jpeg 284w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-768x811.jpeg 768w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1455x1536.jpeg 1455w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1940x2048.jpeg 1940w" sizes="(max-width: 970px) 100vw, 970px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="856" src="http://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg" alt="" data-id="4271" data-full-url="http://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-scaled.jpeg" data-link="http://medoang.com/96d37387-7d18-4750-b866-8b90c6fc1dd3/" class="wp-image-4271" srcset="/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg 1024w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-300x251.jpeg 300w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-768x642.jpeg 768w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1536x1284.jpeg 1536w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-2048x1713.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -852,7 +852,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="782" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg" alt="How to decorate crepes" class="wp-image-4260" srcset="/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-decoration-300x229.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-decoration-768x586.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-decoration-1536x1172.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-decoration-2048x1563.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="782" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg" alt="How to decorate crepes" class="wp-image-4260" srcset="/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-decoration-300x229.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-decoration-768x586.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-decoration-1536x1172.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-decoration-2048x1563.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -860,7 +860,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="849" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg" alt="how to make French crepes" class="wp-image-4259" srcset="/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-recipe-300x249.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-recipe-768x637.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-recipe-1536x1274.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-recipe-2048x1698.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="849" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg" alt="how to make French crepes" class="wp-image-4259" srcset="/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-recipe-300x249.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-recipe-768x637.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-recipe-1536x1274.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-recipe-2048x1698.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -868,7 +868,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="810" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg" alt="french crepe" class="wp-image-4258" srcset="/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-300x237.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-768x608.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-1536x1215.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-2048x1620.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="810" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg" alt="french crepe" class="wp-image-4258" srcset="/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-300x237.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-768x608.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-1536x1215.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-2048x1620.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -876,7 +876,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="720" src="https://medoang.com/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg" alt="Ideas for crepe fillings" class="wp-image-4261" srcset="/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg 1024w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-300x211.jpeg 300w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-768x540.jpeg 768w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-1536x1081.jpeg 1536w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-2048x1441.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="720" src="http://medoang.com/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg" alt="Ideas for crepe fillings" class="wp-image-4261" srcset="/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg 1024w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-300x211.jpeg 300w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-768x540.jpeg 768w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-1536x1081.jpeg 1536w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-2048x1441.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -884,7 +884,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="702" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg" alt="crepe socola" class="wp-image-4254" srcset="/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-300x206.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-768x526.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-1536x1052.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-2048x1403.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="702" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg" alt="crepe socola" class="wp-image-4254" srcset="/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-300x206.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-768x526.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-1536x1052.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-2048x1403.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -892,7 +892,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg" alt="crepe socola decoration" class="wp-image-4255" width="583" height="423"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg" alt="crepe socola decoration" class="wp-image-4255" width="583" height="423"/></figure>
 
 
 
@@ -900,7 +900,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="706" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg" alt="Crepe fillings ideas" class="wp-image-4256" srcset="/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-300x207.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-768x530.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1536x1059.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-2048x1413.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="706" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg" alt="Crepe fillings ideas" class="wp-image-4256" srcset="/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-300x207.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-768x530.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1536x1059.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-2048x1413.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -908,7 +908,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg" alt="chocolate crepes" class="wp-image-4257" width="583" height="464" srcset="/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepe-300x238.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepe-768x610.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepe-1536x1221.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepe.jpeg 1817w" sizes="(max-width: 583px) 100vw, 583px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg" alt="chocolate crepes" class="wp-image-4257" width="583" height="464" srcset="/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepe-300x238.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepe-768x610.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepe-1536x1221.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepe.jpeg 1817w" sizes="(max-width: 583px) 100vw, 583px" /></figure>
 
 
 
@@ -916,7 +916,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="698" src="https://medoang.com/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg" alt="How to make chocolate crepes" class="wp-image-4264" srcset="/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-300x205.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-768x524.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-1536x1047.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-2048x1396.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="698" src="http://medoang.com/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg" alt="How to make chocolate crepes" class="wp-image-4264" srcset="/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-300x205.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-768x524.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-1536x1047.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-2048x1396.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -924,7 +924,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="870" src="https://medoang.com/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg" alt="Savory crepes with shrimps" class="wp-image-4262" srcset="/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-300x255.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-768x652.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-1536x1304.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-2048x1739.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="870" src="http://medoang.com/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg" alt="Savory crepes with shrimps" class="wp-image-4262" srcset="/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-300x255.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-768x652.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-1536x1304.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-2048x1739.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -932,7 +932,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="855" src="https://medoang.com/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg" alt="Ideas for savory crepes" class="wp-image-4263" srcset="/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-ideas-300x251.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-ideas-768x641.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-ideas-1536x1283.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-ideas-2048x1711.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="855" src="http://medoang.com/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg" alt="Ideas for savory crepes" class="wp-image-4263" srcset="/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-ideas-300x251.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-ideas-768x641.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-ideas-1536x1283.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-ideas-2048x1711.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -952,7 +952,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sat, 09 Jan 2021 07:46:05 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4249</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4249</guid>
 
 					<description><![CDATA[Nếu như ở Việt Nam có Tết Hàn Thực ngày 3/3 âm lịch hằng năm thì ở Pháp có lễ Chandeleur ngày 2/2 dương lịch. Trong dịp này người Pháp thường tụ tập gia đình, bạn bè đổ bánh crepe. Họ không chỉ đổ bánh&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -984,7 +984,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="846" src="https://medoang.com/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg" alt="" class="wp-image-4276" srcset="/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg 1024w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-300x248.jpeg 300w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-768x634.jpeg 768w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1536x1269.jpeg 1536w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-2048x1692.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="846" src="http://medoang.com/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg" alt="" class="wp-image-4276" srcset="/wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1024x846.jpeg 1024w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-300x248.jpeg 300w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-768x634.jpeg 768w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-1536x1269.jpeg 1536w, /wp-content/uploads/2021/01/B51CE82D-4F31-4F86-833D-7E5DC59CAC7E-2048x1692.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -992,7 +992,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1009" src="https://medoang.com/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg" alt="" class="wp-image-4265" srcset="/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg 1024w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-300x295.jpeg 300w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-768x756.jpeg 768w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1536x1513.jpeg 1536w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-2048x2017.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1009" src="http://medoang.com/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg" alt="" class="wp-image-4265" srcset="/wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1024x1009.jpeg 1024w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-300x295.jpeg 300w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-768x756.jpeg 768w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-1536x1513.jpeg 1536w, /wp-content/uploads/2021/01/26744CD7-EB46-4DC7-A92D-C12C0595069B-2048x2017.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1044,7 +1044,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="670" src="https://medoang.com/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg" alt="" class="wp-image-4269" srcset="/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg 1024w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-300x196.jpeg 300w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-768x503.jpeg 768w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="670" src="http://medoang.com/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg" alt="" class="wp-image-4269" srcset="/wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-1024x670.jpeg 1024w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-300x196.jpeg 300w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2-768x503.jpeg 768w, /wp-content/uploads/2021/01/FB1EE89C-8720-47E9-A8F3-80F58C6F84D2.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1072,7 +1072,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="885" src="https://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg" alt="" data-id="4267" data-full-url="https://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg" data-link="https://medoang.com/c681f17e-cef5-4a4b-b534-cf94b999b0a3/" class="wp-image-4267" srcset="/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg 1024w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-300x259.jpeg 300w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-768x664.jpeg 768w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg 1303w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="933" src="https://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg" alt="" data-id="4266" data-full-url="https://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-scaled.jpeg" data-link="https://medoang.com/74eb18bc-a7d3-4294-a7d5-5aa49f4da081/" class="wp-image-4266" srcset="/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg 1024w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-300x273.jpeg 300w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-768x700.jpeg 768w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1536x1400.jpeg 1536w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-2048x1866.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="769" src="https://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg" alt="" data-id="4268" data-full-url="https://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg" data-link="https://medoang.com/4f89201a-4716-4da2-929a-2b9f7329c7f0/" class="wp-image-4268" srcset="/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg 1024w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-300x225.jpeg 300w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-768x577.jpeg 768w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg 1350w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="885" src="http://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg" alt="" data-id="4267" data-full-url="http://medoang.com/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg" data-link="http://medoang.com/c681f17e-cef5-4a4b-b534-cf94b999b0a3/" class="wp-image-4267" srcset="/wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-1024x885.jpeg 1024w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-300x259.jpeg 300w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3-768x664.jpeg 768w, /wp-content/uploads/2021/01/C681F17E-CEF5-4A4B-B534-CF94B999B0A3.jpeg 1303w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="933" src="http://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg" alt="" data-id="4266" data-full-url="http://medoang.com/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-scaled.jpeg" data-link="http://medoang.com/74eb18bc-a7d3-4294-a7d5-5aa49f4da081/" class="wp-image-4266" srcset="/wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1024x933.jpeg 1024w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-300x273.jpeg 300w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-768x700.jpeg 768w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-1536x1400.jpeg 1536w, /wp-content/uploads/2021/01/74EB18BC-A7D3-4294-A7D5-5AA49F4DA081-2048x1866.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="769" src="http://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg" alt="" data-id="4268" data-full-url="http://medoang.com/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg" data-link="http://medoang.com/4f89201a-4716-4da2-929a-2b9f7329c7f0/" class="wp-image-4268" srcset="/wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-1024x769.jpeg 1024w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-300x225.jpeg 300w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0-768x577.jpeg 768w, /wp-content/uploads/2021/01/4F89201A-4716-4DA2-929A-2B9F7329C7F0.jpeg 1350w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1120,7 +1120,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="869" src="https://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg" alt="" data-id="4272" data-full-url="https://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg" data-link="https://medoang.com/52485719-e2ab-4a21-9f9e-34bf5c853dce/" class="wp-image-4272" srcset="/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg 1024w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-300x255.jpeg 300w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-768x652.jpeg 768w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1536x1303.jpeg 1536w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg 1755w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="848" src="https://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg" alt="" data-id="4273" data-full-url="https://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-scaled.jpeg" data-link="https://medoang.com/bebd3f9c-9d40-4b1d-873c-f4136b0869a1/" class="wp-image-4273" srcset="/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg 1024w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-300x248.jpeg 300w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-768x636.jpeg 768w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1536x1272.jpeg 1536w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="869" src="http://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg" alt="" data-id="4272" data-full-url="http://medoang.com/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg" data-link="http://medoang.com/52485719-e2ab-4a21-9f9e-34bf5c853dce/" class="wp-image-4272" srcset="/wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1024x869.jpeg 1024w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-300x255.jpeg 300w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-768x652.jpeg 768w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE-1536x1303.jpeg 1536w, /wp-content/uploads/2021/01/52485719-E2AB-4A21-9F9E-34BF5C853DCE.jpeg 1755w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="848" src="http://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg" alt="" data-id="4273" data-full-url="http://medoang.com/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-scaled.jpeg" data-link="http://medoang.com/bebd3f9c-9d40-4b1d-873c-f4136b0869a1/" class="wp-image-4273" srcset="/wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1024x848.jpeg 1024w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-300x248.jpeg 300w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-768x636.jpeg 768w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-1536x1272.jpeg 1536w, /wp-content/uploads/2021/01/BEBD3F9C-9D40-4B1D-873C-F4136B0869A1-2048x1695.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1132,7 +1132,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="1024" src="https://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg" alt="" data-id="4270" data-full-url="https://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D.jpeg" data-link="https://medoang.com/500d3881-4386-4b75-b863-dee943acb10d/" class="wp-image-4270" srcset="/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg 970w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-284x300.jpeg 284w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-768x811.jpeg 768w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1455x1536.jpeg 1455w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1940x2048.jpeg 1940w" sizes="(max-width: 970px) 100vw, 970px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="856" src="https://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg" alt="" data-id="4271" data-full-url="https://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-scaled.jpeg" data-link="https://medoang.com/96d37387-7d18-4750-b866-8b90c6fc1dd3/" class="wp-image-4271" srcset="/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg 1024w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-300x251.jpeg 300w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-768x642.jpeg 768w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1536x1284.jpeg 1536w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-2048x1713.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="1024" src="http://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg" alt="" data-id="4270" data-full-url="http://medoang.com/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D.jpeg" data-link="http://medoang.com/500d3881-4386-4b75-b863-dee943acb10d/" class="wp-image-4270" srcset="/wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-970x1024.jpeg 970w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-284x300.jpeg 284w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-768x811.jpeg 768w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1455x1536.jpeg 1455w, /wp-content/uploads/2021/01/500D3881-4386-4B75-B863-DEE943ACB10D-1940x2048.jpeg 1940w" sizes="(max-width: 970px) 100vw, 970px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="856" src="http://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg" alt="" data-id="4271" data-full-url="http://medoang.com/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-scaled.jpeg" data-link="http://medoang.com/96d37387-7d18-4750-b866-8b90c6fc1dd3/" class="wp-image-4271" srcset="/wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1024x856.jpeg 1024w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-300x251.jpeg 300w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-768x642.jpeg 768w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-1536x1284.jpeg 1536w, /wp-content/uploads/2021/01/96D37387-7D18-4750-B866-8B90C6FC1DD3-2048x1713.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1152,7 +1152,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg" alt="How to decorate crepes" class="wp-image-4260" width="577" height="439" srcset="/wp-content/uploads/2021/01/french-crepe-decoration-300x229.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-decoration-768x586.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-decoration-1536x1172.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-decoration-2048x1563.jpeg 2048w" sizes="(max-width: 577px) 100vw, 577px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-decoration-1024x782.jpeg" alt="How to decorate crepes" class="wp-image-4260" width="577" height="439" srcset="/wp-content/uploads/2021/01/french-crepe-decoration-300x229.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-decoration-768x586.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-decoration-1536x1172.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-decoration-2048x1563.jpeg 2048w" sizes="(max-width: 577px) 100vw, 577px" /></figure>
 
 
 
@@ -1160,7 +1160,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="849" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg" alt="how to make French crepes" class="wp-image-4259" srcset="/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-recipe-300x249.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-recipe-768x637.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-recipe-1536x1274.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-recipe-2048x1698.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="849" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg" alt="how to make French crepes" class="wp-image-4259" srcset="/wp-content/uploads/2021/01/french-crepe-recipe-1024x849.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-recipe-300x249.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-recipe-768x637.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-recipe-1536x1274.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-recipe-2048x1698.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1168,7 +1168,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="810" src="https://medoang.com/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg" alt="french crepe" class="wp-image-4258" srcset="/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-300x237.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-768x608.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-1536x1215.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-2048x1620.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="810" src="http://medoang.com/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg" alt="french crepe" class="wp-image-4258" srcset="/wp-content/uploads/2021/01/french-crepe-1024x810.jpeg 1024w, /wp-content/uploads/2021/01/french-crepe-300x237.jpeg 300w, /wp-content/uploads/2021/01/french-crepe-768x608.jpeg 768w, /wp-content/uploads/2021/01/french-crepe-1536x1215.jpeg 1536w, /wp-content/uploads/2021/01/french-crepe-2048x1620.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1176,7 +1176,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="720" src="https://medoang.com/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg" alt="Ideas for crepe fillings" class="wp-image-4261" srcset="/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg 1024w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-300x211.jpeg 300w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-768x540.jpeg 768w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-1536x1081.jpeg 1536w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-2048x1441.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="720" src="http://medoang.com/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg" alt="Ideas for crepe fillings" class="wp-image-4261" srcset="/wp-content/uploads/2021/01/Crepe-with-fruit-jam-1024x720.jpeg 1024w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-300x211.jpeg 300w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-768x540.jpeg 768w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-1536x1081.jpeg 1536w, /wp-content/uploads/2021/01/Crepe-with-fruit-jam-2048x1441.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1184,7 +1184,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="702" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg" alt="crepe socola" class="wp-image-4254" srcset="/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-300x206.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-768x526.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-1536x1052.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-2048x1403.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="702" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg" alt="crepe socola" class="wp-image-4254" srcset="/wp-content/uploads/2021/01/crepe-socola-1024x702.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-300x206.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-768x526.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-1536x1052.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-2048x1403.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1192,7 +1192,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="748" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg" alt="crepe socola decoration" class="wp-image-4255" srcset="/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-decoration-300x219.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-decoration-768x561.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-decoration-1536x1122.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-decoration-2048x1495.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="748" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg" alt="crepe socola decoration" class="wp-image-4255" srcset="/wp-content/uploads/2021/01/crepe-socola-decoration-1024x748.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-decoration-300x219.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-decoration-768x561.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-decoration-1536x1122.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-decoration-2048x1495.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1200,7 +1200,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="706" src="https://medoang.com/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg" alt="Crepe fillings ideas" class="wp-image-4256" srcset="/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-300x207.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-768x530.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1536x1059.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-2048x1413.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="706" src="http://medoang.com/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg" alt="Crepe fillings ideas" class="wp-image-4256" srcset="/wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1024x706.jpeg 1024w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-300x207.jpeg 300w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-768x530.jpeg 768w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-1536x1059.jpeg 1536w, /wp-content/uploads/2021/01/crepe-socola-fillings-ideas-2048x1413.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1208,7 +1208,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="814" src="https://medoang.com/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg" alt="chocolate crepes" class="wp-image-4257" srcset="/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepe-300x238.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepe-768x610.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepe-1536x1221.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepe.jpeg 1817w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="814" src="http://medoang.com/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg" alt="chocolate crepes" class="wp-image-4257" srcset="/wp-content/uploads/2021/01/chocolate-crepe-1024x814.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepe-300x238.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepe-768x610.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepe-1536x1221.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepe.jpeg 1817w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1216,7 +1216,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg" alt="How to make chocolate crepes" class="wp-image-4264" width="582" height="396" srcset="/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-300x205.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-768x524.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-1536x1047.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-2048x1396.jpeg 2048w" sizes="(max-width: 582px) 100vw, 582px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg" alt="How to make chocolate crepes" class="wp-image-4264" width="582" height="396" srcset="/wp-content/uploads/2021/01/chocolate-crepes-delicious-1024x698.jpeg 1024w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-300x205.jpeg 300w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-768x524.jpeg 768w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-1536x1047.jpeg 1536w, /wp-content/uploads/2021/01/chocolate-crepes-delicious-2048x1396.jpeg 2048w" sizes="(max-width: 582px) 100vw, 582px" /></figure>
 
 
 
@@ -1224,7 +1224,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="870" src="https://medoang.com/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg" alt="Savory crepes with shrimps" class="wp-image-4262" srcset="/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-300x255.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-768x652.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-1536x1304.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-2048x1739.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="870" src="http://medoang.com/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg" alt="Savory crepes with shrimps" class="wp-image-4262" srcset="/wp-content/uploads/2021/01/Savory-crepe-1024x870.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-300x255.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-768x652.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-1536x1304.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-2048x1739.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1232,7 +1232,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="855" src="https://medoang.com/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg" alt="Ideas for savory crepes" class="wp-image-4263" srcset="/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-ideas-300x251.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-ideas-768x641.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-ideas-1536x1283.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-ideas-2048x1711.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="855" src="http://medoang.com/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg" alt="Ideas for savory crepes" class="wp-image-4263" srcset="/wp-content/uploads/2021/01/Savory-crepe-ideas-1024x855.jpeg 1024w, /wp-content/uploads/2021/01/Savory-crepe-ideas-300x251.jpeg 300w, /wp-content/uploads/2021/01/Savory-crepe-ideas-768x641.jpeg 768w, /wp-content/uploads/2021/01/Savory-crepe-ideas-1536x1283.jpeg 1536w, /wp-content/uploads/2021/01/Savory-crepe-ideas-2048x1711.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1252,7 +1252,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 31 Jul 2020 20:19:08 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4109</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4109</guid>
 
 					<description><![CDATA[Kem là một món ăn vặt không thể thiếu của mỗi người từ quá khứ tuổi thơ đến hiện tại. Trong bài viết này, hãy khám phá cách tự làm kem cốm socola tại nhà ngon ngon mát lạnh các bạn nhé. Nguyên liệu: 100g&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1336,7 +1336,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2020/07/cach-lam-kem-com-socola-1024x1024.jpeg" alt="Cách làm kem cốm socola" class="wp-image-4081" srcset="/wp-content/uploads/2020/07/cach-lam-kem-com-socola-1024x1024.jpeg 1024w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-300x300.jpeg 300w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-150x150.jpeg 150w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-768x768.jpeg 768w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola.jpeg 1147w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2020/07/cach-lam-kem-com-socola-1024x1024.jpeg" alt="Cách làm kem cốm socola" class="wp-image-4081" srcset="/wp-content/uploads/2020/07/cach-lam-kem-com-socola-1024x1024.jpeg 1024w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-300x300.jpeg 300w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-150x150.jpeg 150w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola-768x768.jpeg 768w, /wp-content/uploads/2020/07/cach-lam-kem-com-socola.jpeg 1147w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1356,7 +1356,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 31 Jul 2020 20:12:15 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4107</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4107</guid>
 
 					<description><![CDATA[Nho là loại quả được rất nhiều người yêu thích do cực kỳ tốt cho sức khoẻ với thành phần glucose không gây béo, axit hữu cơ, axit amin và nhiều vitamin&#8230; Trong bài viết này, hay khám phá 3 cách làm thạch nho mát&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1368,7 +1368,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/chum-nho-1024x1024.jpeg" alt="Nho đỏ Pháp" data-id="491" data-full-url="https://medoang.com/wp-content/uploads/2019/12/chum-nho.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/385858fe-c4d5-4856-92f4-c7c49a0e007f/" class="wp-image-491" srcset="/wp-content/uploads/2019/12/chum-nho-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/chum-nho-300x300.jpeg 300w, /wp-content/uploads/2019/12/chum-nho-150x150.jpeg 150w, /wp-content/uploads/2019/12/chum-nho-768x768.jpeg 768w, /wp-content/uploads/2019/12/chum-nho-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/chum-nho.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="960" height="739" src="https://medoang.com/wp-content/uploads/2019/12/chum-nho-tuoi.jpg" alt="Chùm nho tươi" data-id="328" data-full-url="https://medoang.com/wp-content/uploads/2019/12/chum-nho-tuoi.jpg" data-link="https://medoang.com/2019/12/23/nhung-cach-bay-hoa-qua-dep-mat/79946722_850680395364941_4620775870032773120_n/" class="wp-image-328" srcset="/wp-content/uploads/2019/12/chum-nho-tuoi.jpg 960w, /wp-content/uploads/2019/12/chum-nho-tuoi-300x231.jpg 300w, /wp-content/uploads/2019/12/chum-nho-tuoi-768x591.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/chum-nho-1024x1024.jpeg" alt="Nho đỏ Pháp" data-id="491" data-full-url="http://medoang.com/wp-content/uploads/2019/12/chum-nho.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/385858fe-c4d5-4856-92f4-c7c49a0e007f/" class="wp-image-491" srcset="/wp-content/uploads/2019/12/chum-nho-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/chum-nho-300x300.jpeg 300w, /wp-content/uploads/2019/12/chum-nho-150x150.jpeg 150w, /wp-content/uploads/2019/12/chum-nho-768x768.jpeg 768w, /wp-content/uploads/2019/12/chum-nho-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/chum-nho.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="960" height="739" src="http://medoang.com/wp-content/uploads/2019/12/chum-nho-tuoi.jpg" alt="Chùm nho tươi" data-id="328" data-full-url="http://medoang.com/wp-content/uploads/2019/12/chum-nho-tuoi.jpg" data-link="http://medoang.com/2019/12/23/nhung-cach-bay-hoa-qua-dep-mat/79946722_850680395364941_4620775870032773120_n/" class="wp-image-328" srcset="/wp-content/uploads/2019/12/chum-nho-tuoi.jpg 960w, /wp-content/uploads/2019/12/chum-nho-tuoi-300x231.jpg 300w, /wp-content/uploads/2019/12/chum-nho-tuoi-768x591.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure></li></ul></figure>
 
 
 
@@ -1424,7 +1424,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="960" height="840" src="https://medoang.com/wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop.jpeg" alt="Cách làm thạch nho hai lớp" class="wp-image-4072" srcset="/wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop.jpeg 960w, /wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop-300x263.jpeg 300w, /wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop-768x672.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="960" height="840" src="http://medoang.com/wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop.jpeg" alt="Cách làm thạch nho hai lớp" class="wp-image-4072" srcset="/wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop.jpeg 960w, /wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop-300x263.jpeg 300w, /wp-content/uploads/2020/07/cach-lam-thach-nho-hai-lop-768x672.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
@@ -1464,7 +1464,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1024x1024.jpeg" alt="Cách làm thạch nho sữa hai lớp" data-id="494" data-full-url="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/8be5f6d8-e184-4603-a07e-c8e446cf65fa/" class="wp-image-494" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-300x300.jpeg 300w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-768x768.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1024x1024.jpeg" alt="Cách làm thạch nho hai lớp" data-id="495" data-full-url="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/06017cf3-f5c4-4ed1-9b85-dbe4d58dcf65/" class="wp-image-495" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-300x300.jpeg 300w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-768x768.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1024x1024.jpeg" alt="Cách làm thạch nho sữa hai lớp" data-id="494" data-full-url="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/8be5f6d8-e184-4603-a07e-c8e446cf65fa/" class="wp-image-494" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-300x300.jpeg 300w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-768x768.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-hai-lop.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1024x1024.jpeg" alt="Cách làm thạch nho hai lớp" data-id="495" data-full-url="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/06017cf3-f5c4-4ed1-9b85-dbe4d58dcf65/" class="wp-image-495" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-300x300.jpeg 300w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-768x768.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/cach-lam-thach-nho-hai-lop.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1472,7 +1472,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/grape-milk-jelly-1024x1024.jpeg" alt="grape milk jelly" class="wp-image-492" srcset="/wp-content/uploads/2019/12/grape-milk-jelly-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/grape-milk-jelly-300x300.jpeg 300w, /wp-content/uploads/2019/12/grape-milk-jelly-150x150.jpeg 150w, /wp-content/uploads/2019/12/grape-milk-jelly-768x768.jpeg 768w, /wp-content/uploads/2019/12/grape-milk-jelly-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/grape-milk-jelly.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/grape-milk-jelly-1024x1024.jpeg" alt="grape milk jelly" class="wp-image-492" srcset="/wp-content/uploads/2019/12/grape-milk-jelly-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/grape-milk-jelly-300x300.jpeg 300w, /wp-content/uploads/2019/12/grape-milk-jelly-150x150.jpeg 150w, /wp-content/uploads/2019/12/grape-milk-jelly-768x768.jpeg 768w, /wp-content/uploads/2019/12/grape-milk-jelly-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/grape-milk-jelly.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1480,7 +1480,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1024x1024.jpeg" alt="" data-id="493" data-full-url="https://medoang.com/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/552f305a-bb8a-4ac6-b808-896a1e28297e/" class="wp-image-493" srcset="/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-300x300.jpeg 300w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-150x150.jpeg 150w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-768x768.jpeg 768w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-600x600.jpeg 600w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-100x100.jpeg 100w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1024x1024.jpeg" alt="Thạch nho" data-id="485" data-full-url="https://medoang.com/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/359cdef6-27e0-4717-89ef-a89d34e58855/" class="wp-image-485" srcset="/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-300x300.jpeg 300w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-150x150.jpeg 150w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-768x768.jpeg 768w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1024x1024.jpeg" alt="" data-id="493" data-full-url="http://medoang.com/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/552f305a-bb8a-4ac6-b808-896a1e28297e/" class="wp-image-493" srcset="/wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-300x300.jpeg 300w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-150x150.jpeg 150w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-768x768.jpeg 768w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-600x600.jpeg 600w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E-100x100.jpeg 100w, /wp-content/uploads/2019/12/552F305A-BB8A-4AC6-B808-896A1E28297E.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1024x1024.jpeg" alt="Thạch nho" data-id="485" data-full-url="http://medoang.com/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-2-lop-dep-mat/359cdef6-27e0-4717-89ef-a89d34e58855/" class="wp-image-485" srcset="/wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1024x1024.jpeg 1024w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-300x300.jpeg 300w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-150x150.jpeg 150w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-768x768.jpeg 768w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly-1536x1536.jpeg 1536w, /wp-content/uploads/2019/12/thach-nho-mua-he-grape-jelly.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1516,7 +1516,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1017" height="1024" src="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1017x1024.jpeg" alt="Cách làm thạch nho sữa" data-id="500" data-full-url="https://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/6a000289-4887-4791-80ed-86ed72c384a9/" class="wp-image-500" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1017x1024.jpeg 1017w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-298x300.jpeg 298w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-768x773.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1526x1536.jpeg 1526w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-2035x2048.jpeg 2035w" sizes="(max-width: 1017px) 100vw, 1017px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="998" src="https://medoang.com/wp-content/uploads/2019/12/Grape-jelly-1024x998.jpeg" alt="Cách làm thạch nho sữa" data-id="498" data-full-url="https://medoang.com/wp-content/uploads/2019/12/Grape-jelly.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/14fd0e8e-87e1-4e8c-8f80-f420b63dc735/" class="wp-image-498" srcset="/wp-content/uploads/2019/12/Grape-jelly-1024x998.jpeg 1024w, /wp-content/uploads/2019/12/Grape-jelly-300x292.jpeg 300w, /wp-content/uploads/2019/12/Grape-jelly-768x748.jpeg 768w, /wp-content/uploads/2019/12/Grape-jelly-1536x1497.jpeg 1536w, /wp-content/uploads/2019/12/Grape-jelly-2048x1996.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="974" src="https://medoang.com/wp-content/uploads/2019/12/Thach-nho-sua-1024x974.jpeg" alt="Cách làm thạch nho sữa" data-id="499" data-full-url="https://medoang.com/wp-content/uploads/2019/12/Thach-nho-sua.jpeg" data-link="https://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/4c40b6ed-5ca4-472a-a36f-e1f9df11066b/" class="wp-image-499" srcset="/wp-content/uploads/2019/12/Thach-nho-sua-1024x974.jpeg 1024w, /wp-content/uploads/2019/12/Thach-nho-sua-300x285.jpeg 300w, /wp-content/uploads/2019/12/Thach-nho-sua-768x731.jpeg 768w, /wp-content/uploads/2019/12/Thach-nho-sua-1536x1461.jpeg 1536w, /wp-content/uploads/2019/12/Thach-nho-sua-2048x1949.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1017" height="1024" src="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1017x1024.jpeg" alt="Cách làm thạch nho sữa" data-id="500" data-full-url="http://medoang.com/wp-content/uploads/2019/12/cach-lam-thach-nho-sua.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/6a000289-4887-4791-80ed-86ed72c384a9/" class="wp-image-500" srcset="/wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1017x1024.jpeg 1017w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-298x300.jpeg 298w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-150x150.jpeg 150w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-768x773.jpeg 768w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-1526x1536.jpeg 1526w, /wp-content/uploads/2019/12/cach-lam-thach-nho-sua-2035x2048.jpeg 2035w" sizes="(max-width: 1017px) 100vw, 1017px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="998" src="http://medoang.com/wp-content/uploads/2019/12/Grape-jelly-1024x998.jpeg" alt="Cách làm thạch nho sữa" data-id="498" data-full-url="http://medoang.com/wp-content/uploads/2019/12/Grape-jelly.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/14fd0e8e-87e1-4e8c-8f80-f420b63dc735/" class="wp-image-498" srcset="/wp-content/uploads/2019/12/Grape-jelly-1024x998.jpeg 1024w, /wp-content/uploads/2019/12/Grape-jelly-300x292.jpeg 300w, /wp-content/uploads/2019/12/Grape-jelly-768x748.jpeg 768w, /wp-content/uploads/2019/12/Grape-jelly-1536x1497.jpeg 1536w, /wp-content/uploads/2019/12/Grape-jelly-2048x1996.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="974" src="http://medoang.com/wp-content/uploads/2019/12/Thach-nho-sua-1024x974.jpeg" alt="Cách làm thạch nho sữa" data-id="499" data-full-url="http://medoang.com/wp-content/uploads/2019/12/Thach-nho-sua.jpeg" data-link="http://medoang.com/2019/12/31/cach-lam-thach-nho-sua-sieu-nhanh-sieu-ngon/4c40b6ed-5ca4-472a-a36f-e1f9df11066b/" class="wp-image-499" srcset="/wp-content/uploads/2019/12/Thach-nho-sua-1024x974.jpeg 1024w, /wp-content/uploads/2019/12/Thach-nho-sua-300x285.jpeg 300w, /wp-content/uploads/2019/12/Thach-nho-sua-768x731.jpeg 768w, /wp-content/uploads/2019/12/Thach-nho-sua-1536x1461.jpeg 1536w, /wp-content/uploads/2019/12/Thach-nho-sua-2048x1949.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -1536,7 +1536,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sun, 26 Jul 2020 20:33:07 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4105</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4105</guid>
 
 					<description><![CDATA[Tuy thạch sương sáo được bày bán ở bất cứ khu chợ nào, nhưng vấn đề vệ sinh trong khâu chế biến hay an toàn thực phẩm luôn làm chúng ta lo lắng. Vì vậy, tự làm thạch tại nhà là cách đảm bảo an&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1604,11 +1604,11 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1024x768.jpeg" alt="Cách nấu thạch sương sáo đen" class="wp-image-4064" width="584" height="438" srcset="/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1024x768.jpeg 1024w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-300x225.jpeg 300w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-768x576.jpeg 768w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1536x1152.jpeg 1536w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den.jpeg 2048w" sizes="(max-width: 584px) 100vw, 584px" /><figcaption>Thạch sương sáo đen (viên hình vuông)</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1024x768.jpeg" alt="Cách nấu thạch sương sáo đen" class="wp-image-4064" width="584" height="438" srcset="/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1024x768.jpeg 1024w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-300x225.jpeg 300w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-768x576.jpeg 768w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den-1536x1152.jpeg 1536w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-den.jpeg 2048w" sizes="(max-width: 584px) 100vw, 584px" /><figcaption>Thạch sương sáo đen (viên hình vuông)</figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://medoang.com/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang.jpeg" alt="Cách nấu thạch sương sáo trắng" class="wp-image-4073" width="582" height="437" srcset="/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang.jpeg 960w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang-300x225.jpeg 300w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang-768x576.jpeg 768w" sizes="(max-width: 582px) 100vw, 582px" /><figcaption>Thạch sương sáo trắng cùng chè đỗ đen</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://medoang.com/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang.jpeg" alt="Cách nấu thạch sương sáo trắng" class="wp-image-4073" width="582" height="437" srcset="/wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang.jpeg 960w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang-300x225.jpeg 300w, /wp-content/uploads/2020/07/cach-nau-thach-suong-sao-trang-768x576.jpeg 768w" sizes="(max-width: 582px) 100vw, 582px" /><figcaption>Thạch sương sáo trắng cùng chè đỗ đen</figcaption></figure>
 
 
 
@@ -1644,7 +1644,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Sun, 26 Jul 2020 20:25:35 +0000</pubDate>
 				<category><![CDATA[Nấu Ăn]]></category>
-		<guid isPermaLink="false">https://medoang.com/?p=4103</guid>
+		<guid isPermaLink="false">http://medoang.com/?p=4103</guid>
 
 					<description><![CDATA[Mùa hè có vô vàn món ăn vặt giải nhiệt như nước mía, nước sấu, trà chanh… và những viên thạch mát lạnh cũng nằm trong số đó. Trong bài viết này, mình sẽ chia sẻ cách làm 1 lần được 3 loại thạch khác&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1724,7 +1724,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="960" height="790" src="https://medoang.com/wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua.jpeg" alt="Cách làm thạch dừa, thạch cam, thạch sữa" class="wp-image-4061" srcset="/wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua.jpeg 960w, /wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua-300x247.jpeg 300w, /wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua-768x632.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="960" height="790" src="http://medoang.com/wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua.jpeg" alt="Cách làm thạch dừa, thạch cam, thạch sữa" class="wp-image-4061" srcset="/wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua.jpeg 960w, /wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua-300x247.jpeg 300w, /wp-content/uploads/2020/07/Cach-lam-thach-dua-thach-cam-thach-sua-768x632.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
