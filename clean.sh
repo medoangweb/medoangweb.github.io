@@ -1,1 +1,1 @@
-rm -R -- */ && rm index.html
+rm -R -- */ && rm index.html && rm *.xml
