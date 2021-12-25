@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="December 24, 2021 11:14 pm" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:31 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://medoang.com/loc>
-		<lastmod>2021-12-24T15:17:59+00:00</lastmod>
+		<loc>https://medoang.com/</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
-		<lastmod>2021-12-24T15:17:59+00:00</lastmod>
+		<loc>https://medoang.com/sitemap.html</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-</urlset><!-- Request ID: 6783db91c994a0b106612906c3a7b941; Queries for sitemap: 3; Total queries: 13; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
+</urlset><!-- Request ID: fe9b0ea1910e01e11c59a81faf245c0d; Queries for sitemap: 3; Total queries: 13; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
