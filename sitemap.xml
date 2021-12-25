@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="December 25, 2021 1:31 pm" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
 <sitemapindex xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://medoang.com/sitemap-misc.xml</loc>
 		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
@@ -92,4 +92,4 @@
 		<loc>https://medoang.com/sitemap-pt-page-2019-11.xml</loc>
 		<lastmod>2019-11-14T20:25:02+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 2434a2cc314da055bea395ade139842b; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
+</sitemapindex><!-- Request ID: 6aaab5a096cb97e2888c492cc481d6e1; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
