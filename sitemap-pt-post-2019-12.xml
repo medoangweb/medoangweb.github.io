@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="December 24, 2021 11:07 pm" -->
+<!-- generated-on="January 15, 2022 6:13 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/loc>
 		<lastmod>2020-05-25T11:34:51+00:00</lastmod>
@@ -20,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/loc>
-		<lastmod>2021-04-02T17:53:11+00:00</lastmod>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -86,7 +86,7 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/loc>
-		<lastmod>2021-12-24T14:37:48+00:00</lastmod>
+		<lastmod>2022-01-14T20:07:58+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -132,4 +132,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 817bc2648b0892a3d5ffccd4f1ebfaa3; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: d82cb405ea53dd21dd24257ccbdd063e; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

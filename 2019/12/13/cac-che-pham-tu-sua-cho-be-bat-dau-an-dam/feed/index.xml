@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>
 		By: Admin		</title>
@@ -24,7 +24,7 @@
 
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2019 21:13:13 +0000</pubDate>
-		<guid isPermaLink="false">http://medoang.com/?p=80#comment-5</guid>
+		<guid isPermaLink="false">https://medoang.com/?p=80#comment-5</guid>
 
 					<description><![CDATA[Sữa chua ngon quá]]></description>
 			<content:encoded><![CDATA[<p>Sữa chua ngon quá</p>
