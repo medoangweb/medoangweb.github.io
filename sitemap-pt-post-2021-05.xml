@@ -1,69 +1,78 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
 <!-- generated-on="January 15, 2022 6:13 pm" -->
+=======
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/25/20-thanh-ngu-voi-con-ngua-cheval-trong-tieng-phap/</loc>
 		<lastmod>2021-05-27T14:00:44+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/25/20-french-idioms-with-the-word-cheval/</loc>
 		<lastmod>2021-06-01T11:02:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/25/20-expressions-imagees-sur-le-cheval/</loc>
 		<lastmod>2021-07-03T15:39:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/15/expressions-imagees-francaises-liees-au-corps-humain/</loc>
 		<lastmod>2021-07-03T15:40:47+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/15/french-idiomatic-expressions-with-body-parts/</loc>
 		<lastmod>2021-05-25T06:45:55+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/15/thanh-ngu-tieng-phap-voi-ten-cac-bo-phan-tren-co-the/</loc>
 		<lastmod>2021-05-15T12:23:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/06/expressions-francaises-autour-des-elements-naturels/</loc>
 		<lastmod>2021-07-03T15:41:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/06/les-couleurs-et-ses-expressions-imagees/</loc>
 		<lastmod>2021-07-03T15:42:32+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/06/review-sua-chua-vang-sua-nestle-tu-phap-so-sanh-cac-che-pham-tu-sua-cua-nestle-va-bledina/</loc>
 		<lastmod>2021-05-06T06:19:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/01/50-expressions-francaises-sur-les-animaux/</loc>
 		<lastmod>2021-07-03T15:43:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/05/01/50-thanh-ngu-voi-ten-cac-loai-dong-vat-tieng-phap/</loc>
 		<lastmod>2021-05-06T07:25:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
+<<<<<<< HEAD
 </urlset><!-- Request ID: 39ca1ce816a5ff652787e083710e1df6; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+=======
+</urlset><!-- Request ID: 7145dafa2e1921d9603340ccfc8d6c36; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb

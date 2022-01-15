@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
 <!-- generated-on="January 15, 2022 6:13 pm" -->
 <sitemapindex xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
@@ -7,89 +8,128 @@
 	<sitemap>
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-14T20:14:11+00:00</lastmod>
+=======
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
+<sitemapindex xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
+		<loc>https://medoang.com/sitemap-misc.xml</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-12.xml</loc>
+		<lastmod>2021-12-25T13:04:02+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
+	</sitemap>
+	<sitemap>
+		<loc>https://medoang.com/sitemap-pt-post-2021-11.xml</loc>
 		<lastmod>2021-12-11T20:38:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-11T19:59:26+00:00</lastmod>
+=======
+		<loc>https://medoang.com/sitemap-pt-post-2021-10.xml</loc>
+		<lastmod>2021-12-25T13:04:58+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-09.xml</loc>
 		<lastmod>2021-12-11T20:42:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-07.xml</loc>
 		<lastmod>2021-10-30T11:15:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-06.xml</loc>
 		<lastmod>2021-07-20T10:49:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-05.xml</loc>
 		<lastmod>2021-07-03T15:43:16+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-04.xml</loc>
 		<lastmod>2021-07-03T15:44:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-03.xml</loc>
 		<lastmod>2021-05-15T12:31:38+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2021-01.xml</loc>
 		<lastmod>2021-07-02T12:12:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-12.xml</loc>
 		<lastmod>2021-01-10T23:56:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-11.xml</loc>
 		<lastmod>2021-12-24T15:06:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
+=======
+		<loc>https://medoang.com/sitemap-pt-post-2020-10.xml</loc>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 		<lastmod>2021-12-25T13:06:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-07.xml</loc>
 		<lastmod>2021-05-06T07:27:38+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-15T11:18:46+00:00</lastmod>
+=======
+		<loc>https://medoang.com/sitemap-pt-post-2020-05.xml</loc>
+		<lastmod>2021-12-25T13:11:19+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-04.xml</loc>
 		<lastmod>2021-09-22T08:38:29+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-14T20:10:18+00:00</lastmod>
+=======
+		<loc>https://medoang.com/sitemap-pt-post-2020-03.xml</loc>
+		<lastmod>2021-12-25T13:15:50+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-02.xml</loc>
 		<lastmod>2021-01-13T08:59:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-post-2020-01.xml</loc>
 		<lastmod>2021-01-15T09:03:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-14T20:07:58+00:00</lastmod>
+=======
+		<loc>https://medoang.com/sitemap-pt-post-2019-12.xml</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-page-2021-01.xml</loc>
 		<lastmod>2021-12-24T14:55:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/sitemap-pt-page-2019-11.xml</loc>
 		<lastmod>2019-11-14T20:25:02+00:00</lastmod>
 	</sitemap>
+<<<<<<< HEAD
 </sitemapindex><!-- Request ID: d7db6077c58d0a18a3d6e0be6ec47ad4; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+=======
+</sitemapindex><!-- Request ID: 6aaab5a096cb97e2888c492cc481d6e1; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb

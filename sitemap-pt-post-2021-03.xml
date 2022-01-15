@@ -1,87 +1,96 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
 <!-- generated-on="January 15, 2022 6:13 pm" -->
+=======
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/29/les-expressions-francaises-autour-des-legumes/</loc>
 		<lastmod>2021-04-30T22:17:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/29/idiomatic-expressions-with-vegetables-in-french/</loc>
 		<lastmod>2021-04-30T22:17:44+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/29/hoc-thanh-ngu-tieng-phap-voi-cac-loai-rau-cu/</loc>
 		<lastmod>2021-04-08T22:02:07+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/29/basic-french-sentences-for-communication/</loc>
 		<lastmod>2021-04-30T22:18:21+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/22/10-expressions-idiomatiques-avec-les-fruits/</loc>
 		<lastmod>2021-04-30T22:20:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/22/10-common-french-idioms-with-fruits/</loc>
 		<lastmod>2021-04-30T22:19:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/22/10-thanh-ngu-tieng-phap-thu-vi-voi-cac-loai-trai-cay/</loc>
 		<lastmod>2021-04-08T22:03:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/10-expressions-imagees-pour-exprimer-les-emotions/</loc>
 		<lastmod>2021-04-08T22:40:16+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/10-useful-french-idioms-to-express-emotions/</loc>
 		<lastmod>2021-04-08T22:41:02+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/10-thanh-ngu-tieng-phap-dien-ta-cam-xuc/</loc>
 		<lastmod>2021-04-08T22:41:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/new-year-and-christmas-wishes-in-french/</loc>
 		<lastmod>2021-05-15T12:31:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/common-sentences-and-expressions-in-french-for-daily-life/</loc>
 		<lastmod>2021-04-08T22:00:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/top-useful-french-sentences-and-expressions-for-basic-communication/</loc>
 		<lastmod>2021-04-30T22:18:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/03/15/must-know-french-sentences-and-expressions-for-beginners/</loc>
 		<lastmod>2021-04-08T13:24:22+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
+<<<<<<< HEAD
 </urlset><!-- Request ID: f1129b24809826532c2eb58faec59449; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+=======
+</urlset><!-- Request ID: 40fcbaf93975dc755f566f06846557de; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb

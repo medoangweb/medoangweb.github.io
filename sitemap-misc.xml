@@ -1,15 +1,32 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
 <!-- generated-on="January 15, 2022 6:13 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-15T11:18:46+00:00</lastmod>
+=======
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://medoang.com/</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
+<<<<<<< HEAD
 		<loc>https://medoang.com/loc>
 		<lastmod>2022-01-15T11:18:46+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 </urlset><!-- Request ID: 5fa0baec393b2d57a2e743fb1b16e290; Queries for sitemap: 3; Total queries: 13; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+=======
+		<loc>https://medoang.com/sitemap.html</loc>
+		<lastmod>2021-12-25T13:17:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset><!-- Request ID: cf26d637ce95e3aba497b2b5a1e750bd; Queries for sitemap: 3; Total queries: 13; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4MB -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb

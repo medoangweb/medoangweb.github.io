@@ -1,63 +1,72 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
 <!-- generated-on="January 15, 2022 6:13 pm" -->
+=======
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="December 25, 2021 1:51 pm" -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/20/expressions-francaises-avec-le-mot-nez/</loc>
 		<lastmod>2021-10-30T11:15:15+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-9-9/</loc>
 		<lastmod>2021-07-11T22:10:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-8-9/</loc>
 		<lastmod>2021-07-02T08:32:05+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-7-9/</loc>
 		<lastmod>2021-07-02T08:28:43+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-6-9/</loc>
 		<lastmod>2021-07-02T08:24:24+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-5-9/</loc>
 		<lastmod>2021-07-02T08:25:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-4-9/</loc>
 		<lastmod>2021-07-02T07:57:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-3-9/</loc>
 		<lastmod>2021-07-02T08:17:14+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-2-9/</loc>
 		<lastmod>2021-07-02T08:09:13+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2021/07/02/french-lesson-level-b2-preparation-for-delf-part-1-9/</loc>
 		<lastmod>2021-07-02T08:11:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
+<<<<<<< HEAD
 </urlset><!-- Request ID: 056593e437b7c6656103e3440fddd6df; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+=======
+</urlset><!-- Request ID: 77265985076bd92ebbaa6ea7f74533f8; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+>>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
