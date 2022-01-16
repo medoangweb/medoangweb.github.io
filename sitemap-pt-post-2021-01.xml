@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 15, 2022 6:13 pm" -->
-=======
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="December 25, 2021 1:51 pm" -->
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
+<!-- generated-on="January 16, 2022 7:10 am" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2021/01/30/french-vocabulary-and-grammar-lessons-cefr-level-b1-intermediate-preparation-for-delf-part-9-9/</loc>
 		<lastmod>2021-07-02T11:40:43+00:00</lastmod>
@@ -71,8 +66,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<<<<<<< HEAD
-</urlset><!-- Request ID: 80ac1994582e83934637ea33ea78a39f; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
-=======
-</urlset><!-- Request ID: a9a87a9c8554ca9e60036ba34fc41db9; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
+</urlset><!-- Request ID: a672eb62279921c3ca1f5906cd5d2b12; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

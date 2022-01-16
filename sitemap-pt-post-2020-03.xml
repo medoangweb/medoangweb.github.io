@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 15, 2022 6:13 pm" -->
-=======
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="December 25, 2021 1:51 pm" -->
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
+<!-- generated-on="January 16, 2022 7:10 am" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2020/03/30/tu-vung-tieng-anh-chu-de-nha-bep/</loc>
 		<lastmod>2020-05-18T11:58:20+00:00</lastmod>
@@ -90,18 +85,9 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-<<<<<<< HEAD
-		<loc>https://medoang.com/loc>
+		<loc>https://medoang.com/2020/03/07/cach-nho-danh-tu-giong-duc-giong-cai-trong-tieng-phap-di-vao-long-nguoi/</loc>
 		<lastmod>2022-01-14T20:10:18+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: b8060fc0113f6d9b322adfac33a4f086; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
-=======
-		<loc>https://medoang.com/2020/03/07/cach-nho-danh-tu-giong-duc-giong-cai-trong-tieng-phap-di-vao-long-nguoi/</loc>
-		<lastmod>2021-12-25T13:15:50+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-</urlset><!-- Request ID: bc8ef2ddafdd5492dc102f8e51c2f27f; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
+</urlset><!-- Request ID: 729af6fce2bd33117463c17a717c2103; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

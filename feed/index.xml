@@ -12,11 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>nhật ký mẹ đoảng nuôi con</description>
-<<<<<<< HEAD
 	<lastBuildDate>Fri, 14 Jan 2022 20:14:11 +0000</lastBuildDate>
-=======
-	<lastBuildDate>Sat, 25 Dec 2021 13:04:02 +0000</lastBuildDate>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,7 +35,7 @@
 		<dc:creator><![CDATA[Lan Anh]]></dc:creator>
 		<pubDate>Fri, 24 Dec 2021 15:00:22 +0000</pubDate>
 				<category><![CDATA[Học tiếng Pháp]]></category>
-		<guid isPermaLink="false">https://medoang.com/guid>
+		<guid isPermaLink="false">https://medoang.com/?p=5725</guid>
 
 					<description><![CDATA[Bonjour, bảng phiên âm quốc tiếng Pháp có 39 âm, trong đó bao gồm: 🔹16 nguyên âm: 12 âm miệng (các âm màu vàng đậm) &#38; 4 âm mũi (các âm màu vàng nhạt), 🔹3 bán nguyên âm/bán phụ âm (các âm màu nâu), 🔹20&#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -97,46 +93,11 @@
 
 
 
-<<<<<<< HEAD
-=======
-<p class="has-medium-font-size">Hy vọng các bạn thấy nhiều thông tin hữu ích trong video. <br></p>
-
-
-
-<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA">https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA</a>) với các bài học cơ bản như:&nbsp;</p>
-
-
-
-<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f539.png" alt="🔹" class="wp-smiley" style="height: 1em; max-height: 1em;" />Bài giảng video về cách đọc bảng chữ cái tiếng Pháp &amp; các dấu:</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #1 | BẢNG CHỮ CÁI TIẾNG PHÁP VÀ CÁC DẤU" width="1200" height="675" src="https://www.youtube.com/embed/QKnSCAIGQOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f539.png" alt="🔹" class="wp-smiley" style="height: 1em; max-height: 1em;" />Bài giảng video về từ vựng tiếng Pháp &#8211; chủ đề Noel:&nbsp;</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="HỌC TỪ VỰNG TIẾNG PHÁP #1| CHỦ ĐỀ NOEL| VLOGMAS| KHÔNG KHÍ GIÁNG SINH Ở PHÁP" width="1200" height="675" src="https://www.youtube.com/embed/HJwaRIuTiG0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 <p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f539.png" alt="🔹" class="wp-smiley" style="height: 1em; max-height: 1em;" />Và các bài giảng video dạy tiếng Pháp khác sẽ được cập nhật trên kênh Youtube này trong thời gian sớm nhất.</p>
 
 
 
-<<<<<<< HEAD
 <p class="has-medium-font-size">Chúc các bạn học vui!&nbsp; <br>À bientôt !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f970.png" alt="🥰" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-=======
-<p class="has-medium-font-size">Chúc các bạn học vui!  <br>À bientôt !<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f970.png" alt="🥰" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2021/12/24/bang-phien-am-quoc-te-tieng-phap-2/feed/</wfw:commentRss>
@@ -170,7 +131,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="701" height="1024" src="https://medoang.com/figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="701" height="1024" src="https://medoang.com/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg" alt="" class="wp-image-5700" srcset="/wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-701x1024.jpg 701w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-205x300.jpg 205w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-768x1122.jpg 768w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais-1052x1536.jpg 1052w, /wp-content/uploads/2021/12/Bang-chu-cai-tieng-phap-alphabet-francais.jpg 1099w" sizes="(max-width: 701px) 100vw, 701px" /></figure>
 
 
 
@@ -192,27 +153,6 @@
 
 
 
-<<<<<<< HEAD
-=======
-<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA">https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA</a>) với các bài học cơ bản như: </p>
-
-
-
-<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f539.png" alt="🔹" class="wp-smiley" style="height: 1em; max-height: 1em;" /><strong>Bài giảng video về cách đọc bảng phiên âm quốc tế tiếng Pháp:&nbsp;</strong></p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #2 | BẢNG PHIÊN ÂM QUỐC TẾ TIẾNG PHÁP| ALPHABET PHONÉTIQUE FRANÇAIS| FPA" width="1200" height="675" src="https://www.youtube.com/embed/6RbKGxHbma4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f539.png" alt="🔹" class="wp-smiley" style="height: 1em; max-height: 1em;" /><strong>Bài giảng video về từ vựng tiếng Pháp &#8211; chủ đề Noel:&nbsp;</strong></p>
-
-
-
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="HỌC TỪ VỰNG TIẾNG PHÁP #1| CHỦ ĐỀ NOEL| VLOGMAS| KHÔNG KHÍ GIÁNG SINH Ở PHÁP" width="1200" height="675" src="https://www.youtube.com/embed/HJwaRIuTiG0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
@@ -259,11 +199,7 @@
 
 
 
-<<<<<<< HEAD
 <p class="has-text-align-left has-large-font-size">I. <strong>Nhóm nhịp điệu (Le groupe rythmique)</strong></p>
-=======
-<ol class="has-large-font-size"><li><strong>Nhóm nhịp điệu (Le groupe rythmique)</strong></li></ol>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 
 
 
@@ -515,11 +451,7 @@
 
 
 
-<<<<<<< HEAD
 <p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA">https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA</a>) với các bài học cơ bản như:&nbsp;</p>
-=======
-<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA">https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA</a>) với các bài học cơ bản như: </p>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 
 
 
@@ -829,11 +761,7 @@
 
 
 
-<<<<<<< HEAD
 <p class="has-luminous-vivid-orange-background-color has-background has-medium-font-size"><strong><em>Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/c/LanAnhBerry">https://youtube.com/c/LanAnhBerry</a>) với các bài học cơ bản như:&nbsp;</em></strong></p>
-=======
-<p class="has-medium-font-size">Ngoài ra, các bạn có thể tham khảo thêm kênh Youtube cho người mới bắt đầu học tiếng Pháp (<a href="https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA">https://youtube.com/channel/UCcxO7-8bRLOrdkaESgax7JA</a>) với các bài học cơ bản như: </p>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 
 
 
@@ -842,11 +770,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<<<<<<< HEAD
 <iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #2 | BẢNG PHIÊN ÂM QUỐC TẾ TIẾNG PHÁP| L’ALPHABET PHONÉTIQUE FRANÇAIS| FPA" width="1200" height="675" src="https://www.youtube.com/embed/6RbKGxHbma4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
-<iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #2 | BẢNG PHIÊN ÂM QUỐC TẾ TIẾNG PHÁP| ALPHABET PHONÉTIQUE FRANÇAIS| FPA" width="1200" height="675" src="https://www.youtube.com/embed/6RbKGxHbma4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 </div></figure>
 
 
@@ -856,11 +780,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<<<<<<< HEAD
 <iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #1 | BẢNG CHỮ CÁI TIẾNG PHÁP VÀ CÁC DẤU| L’ALPHABET FRANÇAIS ET LES ACCENTS" width="1200" height="675" src="https://www.youtube.com/embed/QKnSCAIGQOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
-<iframe loading="lazy" title="HỌC PHÁT ÂM TIẾNG PHÁP #1 | BẢNG CHỮ CÁI TIẾNG PHÁP VÀ CÁC DẤU" width="1200" height="675" src="https://www.youtube.com/embed/QKnSCAIGQOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> 414e44fdd780c8085b3fafc7d2d71729ce261ffb
 </div></figure>
 
 
