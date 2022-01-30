@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 26, 2022 8:22 pm" -->
+<!-- generated-on="January 30, 2022 7:29 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2021/12/24/bang-phien-am-quoc-te-tieng-phap-2/</loc>
-		<lastmod>2022-01-14T19:37:54+00:00</lastmod>
+		<lastmod>2022-01-30T14:11:12+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2021/12/11/bang-chu-cai-tieng-phap/</loc>
-		<lastmod>2022-01-14T19:53:41+00:00</lastmod>
+		<lastmod>2022-01-30T14:12:05+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -26,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/2021/12/10/tu-vung-tieng-phap-chu-de-giang-sinh-noel/</loc>
-		<lastmod>2022-01-26T13:15:20+00:00</lastmod>
+		<lastmod>2022-01-30T13:37:59+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -42,4 +42,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 18d5ade353d5bc3e43d0d7458e84dde3; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 406884496c76f2bcbb8d663ddcad7861; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 26, 2022 8:22 pm" -->
+<!-- generated-on="January 30, 2022 7:29 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2020/05/17/bot-lac-sua-la-gi-cac-loai-bot-lac-sua-phap-cho-be-hien-nay/</loc>
 		<lastmod>2021-04-10T20:50:34+00:00</lastmod>
@@ -8,7 +8,7 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/07/bang-phien-am-quoc-te-tieng-phap-cach-doc-nguyen-am-phu-am-ban-nguyen-am-am-mui-tieng-phap/</loc>
-		<lastmod>2022-01-14T20:04:43+00:00</lastmod>
+		<lastmod>2022-01-30T14:47:01+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -26,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/06/cach-phat-am-tieng-phap-cach-doc-o-o-oe-oeu-oi-oin-oy-ou-ou-om-on-eon/</loc>
-		<lastmod>2022-01-11T20:02:56+00:00</lastmod>
+		<lastmod>2022-01-30T13:57:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -38,20 +38,20 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/05/cach-phat-am-tieng-phap-cach-doc-e-e-e-e-e-es-er-et-ei-eau-eim-ein-em-en-emm-enn-ien-ent-eu/</loc>
-		<lastmod>2022-01-26T12:52:02+00:00</lastmod>
+		<lastmod>2022-01-30T13:46:14+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/05/cach-phat-am-tieng-phap-cach-doc-a-a-a-ai-aim-am-aon-au-ay/</loc>
-		<lastmod>2022-01-26T12:50:19+00:00</lastmod>
+		<lastmod>2022-01-30T13:47:11+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/04/cach-phat-am-bang-chu-cai-tieng-phap-cach-doc-day-du-cac-chu-cai-va-cac-dau/</loc>
-		<lastmod>2021-12-25T13:11:19+00:00</lastmod>
+		<lastmod>2022-01-30T14:48:42+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: ed78d8d37c263831c0fa3ffb6aac57fb; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: f15ad46e871d6016a03014a83a7016b4; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

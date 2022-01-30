@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 26, 2022 8:22 pm" -->
+<!-- generated-on="January 30, 2022 7:29 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>https://medoang.com/2022/01/26/phat-am-tieng-phap-cach-doc-ch-trong-tieng-phap-%ca%83-hay-k/</loc>
-		<lastmod>2022-01-26T13:13:58+00:00</lastmod>
+		<loc>https://medoang.com/2022/01/30/cach-phat-am-tieng-phap-cach-ghep-van-trong-tieng-phap/</loc>
+		<lastmod>2022-01-30T14:45:54+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 41ac135b19e1f48cddaa1b68e22b37ea; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+	<url>
+		<loc>https://medoang.com/2022/01/30/phat-am-tieng-phap-phan-biet-luoc-am-va-noi-am-elision-liaison-enchainement/</loc>
+		<lastmod>2022-01-30T14:22:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://medoang.com/2022/01/30/phan-biet-am-h-cam-va-am-h-bat-hoi-trong-tieng-phap-h-muet-vs-h-aspire/</loc>
+		<lastmod>2022-01-30T14:09:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://medoang.com/2022/01/26/phat-am-tieng-phap-cach-doc-ch-trong-tieng-phap-%ca%83-hay-k/</loc>
+		<lastmod>2022-01-30T14:09:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset><!-- Request ID: f34cd227c3778e6fcc41f4be28dc6fd2; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 26, 2022 8:22 pm" -->
+<!-- generated-on="January 30, 2022 7:29 pm" -->
 <sitemapindex xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://medoang.com/sitemap-misc.xml</loc>
-		<lastmod>2022-01-26T13:15:20+00:00</lastmod>
+		<lastmod>2022-01-30T16:43:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2022-01.xml</loc>
-		<lastmod>2022-01-26T13:13:58+00:00</lastmod>
+		<lastmod>2022-01-30T14:45:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-12.xml</loc>
-		<lastmod>2022-01-26T13:15:20+00:00</lastmod>
+		<lastmod>2022-01-30T14:12:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-11.xml</loc>
@@ -18,7 +18,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-10.xml</loc>
-		<lastmod>2022-01-26T12:46:15+00:00</lastmod>
+		<lastmod>2022-01-30T14:17:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-09.xml</loc>
@@ -34,7 +34,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-05.xml</loc>
-		<lastmod>2021-07-03T15:43:16+00:00</lastmod>
+		<lastmod>2022-01-30T12:51:20+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-04.xml</loc>
@@ -58,7 +58,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-10.xml</loc>
-		<lastmod>2021-12-25T13:06:35+00:00</lastmod>
+		<lastmod>2022-01-30T16:43:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-07.xml</loc>
@@ -66,11 +66,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-05.xml</loc>
-		<lastmod>2022-01-26T12:52:02+00:00</lastmod>
+		<lastmod>2022-01-30T14:48:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-04.xml</loc>
-		<lastmod>2022-01-26T12:29:14+00:00</lastmod>
+		<lastmod>2022-01-30T14:56:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-03.xml</loc>
@@ -86,7 +86,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2019-12.xml</loc>
-		<lastmod>2022-01-14T20:07:58+00:00</lastmod>
+		<lastmod>2022-01-30T14:58:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-page-2021-01.xml</loc>
@@ -96,4 +96,4 @@
 		<loc>https://medoang.com/sitemap-pt-page-2019-11.xml</loc>
 		<lastmod>2019-11-14T20:25:02+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 34938b45dc0113b4fc4a8dc786d75eb5; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 916201d54e5c0499ffcbd46fda0fc014; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
