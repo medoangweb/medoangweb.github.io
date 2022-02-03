@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="February 1, 2022 10:36 pm" -->
+<!-- generated-on="February 3, 2022 9:55 pm" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2022/01/30/cach-phat-am-tieng-phap-cach-ghep-van-trong-tieng-phap/</loc>
 		<lastmod>2022-02-01T12:45:14+00:00</lastmod>
@@ -19,9 +19,9 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://medoang.com/2022/01/26/phat-am-tieng-phap-cach-doc-ch-trong-tieng-phap-%ca%83-hay-k/</loc>
-		<lastmod>2022-01-30T14:09:56+00:00</lastmod>
+		<loc>https://medoang.com/2022/01/26/phat-am-tieng-phap-cach-doc-ch-trong-tieng-phap/</loc>
+		<lastmod>2022-02-03T15:17:52+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: df48e971a0790fd6c69a54efb971ca04; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 83b8667a25e8c06c862e4fe4120d04a9; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
