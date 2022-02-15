@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="February 3, 2022 9:55 pm" -->
+<!-- generated-on="February 15, 2022 12:16 pm" -->
 <sitemapindex xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://medoang.com/sitemap-misc.xml</loc>
-		<lastmod>2022-02-03T15:17:52+00:00</lastmod>
+		<lastmod>2022-02-15T07:58:14+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://medoang.com/sitemap-pt-post-2022-02.xml</loc>
+		<lastmod>2022-02-15T07:58:14+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2022-01.xml</loc>
-		<lastmod>2022-02-03T15:17:52+00:00</lastmod>
+		<lastmod>2022-02-09T17:36:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2021-12.xml</loc>
@@ -66,7 +70,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-05.xml</loc>
-		<lastmod>2022-02-01T12:11:29+00:00</lastmod>
+		<lastmod>2022-02-09T18:09:48+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://medoang.com/sitemap-pt-post-2020-04.xml</loc>
@@ -96,4 +100,4 @@
 		<loc>https://medoang.com/sitemap-pt-page-2019-11.xml</loc>
 		<lastmod>2019-11-14T20:25:02+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 7dc4d72bd9fbf62ae776c76a664da884; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 4c54cbcf7247cc56a2b9a31a96cfa673; Queries for sitemap: 5; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
