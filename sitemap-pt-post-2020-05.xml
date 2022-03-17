@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://medoang.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="https://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="February 15, 2022 12:16 pm" -->
+<!-- generated-on="March 17, 2022 4:42 am" -->
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://medoang.com/2020/05/17/bot-lac-sua-la-gi-cac-loai-bot-lac-sua-phap-cho-be-hien-nay/</loc>
 		<lastmod>2021-04-10T20:50:34+00:00</lastmod>
@@ -14,37 +14,37 @@
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/06/cach-phat-am-tieng-phap-cach-doc-cac-phu-am-tieng-phap/</loc>
-		<lastmod>2021-10-30T11:42:40+00:00</lastmod>
+		<lastmod>2022-03-15T19:35:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/06/cach-phat-am-tieng-phap-cach-doc-u-u-u-ui-ue-ueu-um-un/</loc>
-		<lastmod>2022-02-09T18:09:48+00:00</lastmod>
+		<lastmod>2022-03-15T19:36:19+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/06/cach-phat-am-tieng-phap-cach-doc-o-o-oe-oeu-oi-oin-oy-ou-ou-om-on-eon/</loc>
-		<lastmod>2022-02-01T12:11:29+00:00</lastmod>
+		<lastmod>2022-03-15T19:27:28+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/06/cach-phat-am-tieng-phap-cach-doc-i-i-i-ill-ille-im-in-y-ym-yn/</loc>
-		<lastmod>2022-01-26T12:47:29+00:00</lastmod>
+		<lastmod>2022-03-15T19:37:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/05/cach-phat-am-tieng-phap-cach-doc-e-e-e-e-e-es-er-et-ei-eau-eim-ein-em-en-emm-enn-ien-ent-eu/</loc>
-		<lastmod>2022-01-30T13:46:14+00:00</lastmod>
+		<lastmod>2022-03-15T19:36:53+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	<url>
 		<loc>https://medoang.com/2020/05/05/cach-phat-am-tieng-phap-cach-doc-a-a-a-ai-aim-am-aon-au-ay/</loc>
-		<lastmod>2022-01-30T13:47:11+00:00</lastmod>
+		<lastmod>2022-03-15T19:37:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
@@ -54,4 +54,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 5d41df68524bf57d69c3b40daf64ca42; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 982e8bab9ed790996bff4b31999a3657; Queries for sitemap: 4; Total queries: 14; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
